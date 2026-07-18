@@ -10,75 +10,85 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # ← এই লাইনটা যোগ করো
+      contents: write
     
     steps:
       - uses: actions/checkout@v4
       
+      # 1. Snake
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
       
+      # 2. Matrix
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-matrix.svg?palette=github-dark
+            dist/matrix/github-contribution-matrix.svg?palette=github-dark
       
+      # 3. Fire
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-fire.svg?palette=github-dark
+            dist/fire/github-contribution-fire.svg?palette=github-dark
       
+      # 4. Paint Splash
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-paint.svg?palette=github-dark
+            dist/paint/github-contribution-paint.svg?palette=github-dark
       
+      # 5. Rain
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-rain.svg?palette=github-dark
+            dist/rain/github-contribution-rain.svg?palette=github-dark
       
+      # 6. Star
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-stars.svg?palette=github-dark
+            dist/star/github-contribution-stars.svg?palette=github-dark
       
+      # 7. Wave
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-wave.svg?palette=github-dark
+            dist/wave/github-contribution-wave.svg?palette=github-dark
       
+      # 8. Spiral
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-spiral.svg?palette=github-dark
+            dist/spiral/github-contribution-spiral.svg?palette=github-dark
       
+      # 9. Particle
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-particles.svg?palette=github-dark
+            dist/particle/github-contribution-particles.svg?palette=github-dark
       
+      # 10. Gift Box
       - uses: Platane/snk@v3
         with:
           github_user_name: Professor-Bot07
           outputs: |
-            dist/github-contribution-gift-box.svg?palette=github-dark
+            dist/giftbox/github-contribution-gift-box.svg?palette=github-dark
       
       - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4  # ← v3 থেকে v4 করো
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: true  # ← এই লাইনটা যোগ করো
+          force_orphan: true
