@@ -8,8 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # ← এই লাইনটা যোগ করো
+    
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk@v3
         with:
@@ -71,8 +75,10 @@ jobs:
           outputs: |
             dist/github-contribution-gift-box.svg?palette=github-dark
       
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4  # ← v3 থেকে v4 করো
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true  # ← এই লাইনটা যোগ করো
