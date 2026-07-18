@@ -45,7 +45,6 @@ me.say_hi()
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=36&lines=%3E+Thanks+for+dropping+by!;%3E+Let's+build+something+amazing." alt="Output" />
 
 </div>
-
 <br>
 
 - 🔭 Currently working on **Full Stack Web Development**
