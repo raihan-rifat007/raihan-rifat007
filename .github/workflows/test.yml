@@ -1,0 +1,78 @@
+name: Generate All Effects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-matrix.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-fire.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-paint.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-rain.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-stars.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-wave.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-spiral.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-particles.svg?palette=github-dark
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Professor-Bot07
+          outputs: |
+            dist/github-contribution-gift-box.svg?palette=github-dark
+      
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
