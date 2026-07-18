@@ -24,12 +24,12 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30" /> About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" /> About Me
 
 <div align="center">
 
-<!-- Python Code Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=200&color=39FF14&center=true&vCenter=true&width=700&height=200&lines=class+Developer%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Raihan+Ahmed%22;++++++++self.alias+%3D+%22r07%22;++++++++self.location+%3D+%22Naogaon%2C+Bangladesh%22;++++++++self.role+%3D+%22Full+Stack+Developer%22;++++++++self.languages+%3D+%5B%22JavaScript%22%2C+%22TypeScript%22%2C+%22Python%22%5D;++++++++self.frameworks+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%5D;++++++++self.tools+%3D+%5B%22Git%22%2C+%22Docker%22%2C+%22Linux%22%5D;++++def+say_hi(self)%3A;++++++++print(%22Let's+build+something+amazing!%22);me+%3D+Developer();me.say_hi()" alt="Typing Python Code" />
+<!-- Python Code - Serial by Serial Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2800&pause=150&color=39FF14&center=true&vCenter=true&width=750&height=200&lines=class+Developer%3A;++++def+__init__(self)%3A;++++++++self.name+%3D+%22Raihan+Ahmed%22;++++++++self.alias+%3D+%22r07%22;++++++++self.location+%3D+%22Naogaon%2C+Bangladesh%22;++++++++self.role+%3D+%22Full+Stack+Developer%22;++++++++self.languages+%3D+%5B%22JavaScript%22%2C+%22TypeScript%22%2C+%22Python%22%2C+%22HTML%22%2C+%22CSS%22%5D;++++++++self.frameworks+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Node.js%22%2C+%22Express%22%2C+%22TailwindCSS%22%5D;++++++++self.tools+%3D+%5B%22Git%22%2C+%22Docker%22%2C+%22Linux%22%2C+%22VS+Code%22%2C+%22MongoDB%22%5D;++++++++self.hobbies+%3D+%5B%22Tech+Exploration%22%2C+%22Linux+Tinkering%22%2C+%22Reading%22%5D;++++def+say_hi(self)%3A;++++++++print(%22Thanks+for+dropping+by!+Let's+build+something+amazing.%22);me+%3D+Developer();me.say_hi()" alt="Typing Python Code" />
 
 <br><br>
 
@@ -106,22 +106,59 @@
 
 ---
 
-## 🔴 Status
+## 🎵 Spotify Playing
 
 <div align="center">
 
-![Active](https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white)
-![Coding](https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black)
+<br>
 
-<br><br>
+[![Spotify](https://novatorem-git-main-rahuldkjain.vercel.app/api/spotify?background_color=0d1117&border_color=6e40c9)](https://open.spotify.com/user/your_spotify_id)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+<br>
+
+<!-- START_SECTION:waka -->
+```text
+JavaScript   15 hrs 30 mins  ████████████░░░░░░░░░   58.2%
+TypeScript   5 hrs 45 mins   ██████░░░░░░░░░░░░░░░   23.4%
+Python       3 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   15.1%
+HTML         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░    5.3%
+CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░    3.0%
+```
+
+<!-- END_SECTION:waka -->
+
+</div>
+
+---
+
+🔴 Status
+
+<div align="center">
+
+https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black
+
+
+
+
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
 
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/raihan_rifat007)
+https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black
 
-<br><br>
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" />
 
