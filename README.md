@@ -28,11 +28,10 @@
 
 <div align="center">
 
-<!-- Info Typing Effect - Line by Line Stay -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=100&color=39FF14&center=true&vCenter=true&width=600&height=250&lines=%F0%9F%91%8B+Name%3A+Raihan+Ahmed;%F0%9F%94%96+Alias%3A+r07;%F0%9F%93%8D+Location%3A+Naogaon%2C+Bangladesh;%F0%9F%92%BB+Role%3A+Full+Stack+Developer;%F0%9F%93%9A+Languages%3A+JS%2C+TS%2C+Python%2C+HTML%2C+CSS;%F0%9F%9A%80+Frameworks%3A+React%2C+Next.js%2C+Node.js;%F0%9F%94%A7+Tools%3A+Git%2C+Docker%2C+Linux%2C+VS+Code;%F0%9F%92%9A+Hobbies%3A+Tech+Exploration%2C+Linux+Tinkering" alt="About Me Info" />
+<!-- সব লাইন একসাথে টাইপ হবে এবং থাকবে -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=100&color=39FF14&center=true&vCenter=true&width=650&height=250&lines=%F0%9F%91%8B+Name%3A+Raihan+Ahmed;%F0%9F%94%96+Alias%3A+r07;%F0%9F%93%8D+Location%3A+Naogaon%2C+Bangladesh;%F0%9F%92%BB+Role%3A+Full+Stack+Developer;%F0%9F%93%9A+Languages%3A+JavaScript%2C+TypeScript%2C+Python;%F0%9F%9A%80+Frameworks%3A+React%2C+Next.js%2C+Node.js;%F0%9F%94%A7+Tools%3A+Git%2C+Docker%2C+Linux%2C+VS+Code;%F0%9F%92%9A+Hobbies%3A+Tech+Exploration%2C+Linux+Tinkering" alt="About Me" />
 
 </div>
-
 <br>
 
 - 🔭 Currently working on **Full Stack Web Development**
