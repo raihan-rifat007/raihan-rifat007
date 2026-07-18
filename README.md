@@ -28,27 +28,12 @@
 
 <div align="center">
 
-```python
-class Developer:
+<!-- Python Code Typing Effect (Terminal Style) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=150&color=39FF14&center=true&vCenter=true&width=650&height=150&lines=class+Developer:;....def+__init__(self):;........self.name+=%22Raihan+Ahmed%22;........self.alias+=%22r07%22;........self.role+=%22Full+Stack+Dev%22;........self.location+=%22Bangladesh%22;....def+say_hi(self):;........print(%22Let's+build+something!%22);me+=Developer();me.say_hi()" alt="Typing Python Code" />
 
-    def __init__(self):
-        self.name       = "Raihan Ahmed"
-        self.alias      = "r07"
-        self.location   = "Naogaon, Bangladesh"
-        self.role       = "Full Stack Developer"
-        self.languages  = ["JavaScript", "TypeScript", "Python", "HTML", "CSS"]
-        self.frameworks = ["React", "Next.js", "Node.js", "Express", "TailwindCSS"]
-        self.tools      = ["Git", "Docker", "Linux", "VS Code", "MongoDB"]
-        self.hobbies    = ["Tech Exploration", "Linux Tinkering", "Reading"]
+<br><br>
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing.")
-
-me = Developer()
-me.say_hi()
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=36&lines=%3E+Thanks+for+dropping+by!;%3E+Let's+build+something+amazing." alt="Output" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&height=36&lines=%3E+Thanks+for+dropping+by!;%3E+Let's+build+something+amazing." alt="Output" />
 
 </div>
 
@@ -66,40 +51,39 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=7" />
-
-<br><br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<!-- শুধু Rounded Skill Icons (ডাবল বাদ) -->
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=8" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="10" /> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25" /> Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanrifat9721@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan_rifat007)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raihan_rifat007)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihan_rifat007)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/raihan_rifat007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://raihan07.vercel.app)
+<!-- রিয়েল লোগো + গোলাকার আধুনিক ডিজাইন -->
+<a href="mailto:raihanrifat9721@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/Professor-Bot07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/raihan_rifat007">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.facebook.com/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://t.me/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://raihan07.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -121,19 +105,20 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
 <br><br>
-<!-- Activity Graph -->
+
+<!-- Activity Graph (এখন GIF ওয়ালা) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## <img src="https://media.giphy.com/media/26gJz8TEnbsGcthXO/giphy.gif" width="25" /> Random Dev Quote
 
 <div align="center">
 
-<br>
-
-<!-- Trophies - Full Config -->
-<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=onedark&no-frame=true&no-bg=true&column=3" />
+<!-- ট্রফি বাদ দিয়ে মডার্ন কোটা বসালাম -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" />
 
 </div>
 
@@ -143,8 +128,8 @@ me.say_hi()
 
 <div align="center">
 
-![Active](https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white)
-![Coding](https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black)
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Coding](https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0d1117)
 
 <br><br>
 
@@ -153,7 +138,7 @@ me.say_hi()
 
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/raihan_rifat007)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117)](https://www.buymeacoffee.com/raihan_rifat007)
 
 <br><br>
 
