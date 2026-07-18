@@ -89,7 +89,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25" /> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20" /> Connect With Me
 
 <div align="center">
 
