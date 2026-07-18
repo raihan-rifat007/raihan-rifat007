@@ -113,7 +113,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/snake/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90"/>
 
 <br>
 
