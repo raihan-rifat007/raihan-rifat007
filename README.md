@@ -121,7 +121,6 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
 <br><br>
-
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
@@ -134,7 +133,7 @@ me.say_hi()
 <br>
 
 <!-- Trophies - Full Config -->
-<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=onedark&no-frame=true&no-bg=true&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=onedark&no-frame=true&no-bg=true&column=3" />
 
 </div>
 
