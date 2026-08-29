@@ -318,20 +318,23 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 ### Tools & Services Used
 
-- **Stats & Analytics:** GitHub Stats Extended, Streak Stats, Activity Graph
-- **Badges & Icons:** Shields.io, Skill Icons, Capability Render
-- **Animations:** Typing SVG, GIF animations via GIPHY
-- **Hosting:** Vercel, GitHub Pages, Deno Deploy, Heroku
+<div align="center">
 
+<img src="https://img.shields.io/badge/Stats-GitHub%20Stats%20Extended-blue?style=flat-square" alt="Stats" />
+<img src="https://img.shields.io/badge/Streak-Stats-orange?style=flat-square" alt="Streak" />
+<img src="https://img.shields.io/badge/Activity-Graph-green?style=flat-square" alt="Activity" />
 <br>
-
-### Latest Updates
-
-- ✅ Deployed YouTube Music API to production
-- ✅ Implemented advanced caching strategies
-- ✅ Achieved 99.9% uptime on streaming service
-- ✅ Published comprehensive API documentation
-- ✅ Contributed to 5+ open-source projects
+<img src="https://img.shields.io/badge/Badges-Shields.io-9cf?style=flat-square" alt="Shields" />
+<img src="https://img.shields.io/badge/Icons-Skill%20Icons-blueviolet?style=flat-square" alt="Skill Icons" />
+<img src="https://img.shields.io/badge/Render-Capability%20Render-red?style=flat-square" alt="Capability" />
+<br>
+<img src="https://img.shields.io/badge/Animations-Typing%20SVG-yellow?style=flat-square" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GIF-GIPHY-ff69b4?style=flat-square" alt="GIPHY" />
+<br>
+<img src="https://img.shields.io/badge/Hosting-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/Deno%20Deploy-000000?style=flat-square&logo=deno" alt="Deno Deploy" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku" alt="Heroku" />
 
 </div>
 
