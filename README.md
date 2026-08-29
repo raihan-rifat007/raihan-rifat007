@@ -364,7 +364,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 |----------|------|
 | ![GitHub](https://img.icons8.com/ios-glyphs/30/ffffff/github.png) **GitHub** | [@raihan-rifat007](https://github.com/raihan-rifat007) |
 | ![Vercel](https://img.icons8.com/ios-glyphs/30/ffffff/domain.png) **Portfolio** | [raihan07.vercel.app](https://raihan07.vercel.app) |
-| ![Gmail](https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png) **Email** | [raihan.rifat007@gmail.com](mailto:raihan.rifat007@gmail.com) |
+| ![Gmail](https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png) **Email** | [raihanrifat9721@gmail.com](mailto:raihan.rifat007@gmail.com) |
 | ![LinkedIn](https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png) **LinkedIn** | [/in/raihan-rifat007](https://www.linkedin.com/in/raihan-rifat007) |
 
 </div>
