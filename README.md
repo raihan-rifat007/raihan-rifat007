@@ -358,9 +358,26 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 ### Quick Links
 
-[**GitHub**](https://github.com/raihan-rifat007) • 
-[**Portfolio**](https://raihan07.vercel.app) • 
-[**Email**](mailto:raihan.rifat007@gmail.com) • 
-[**LinkedIn**](https://www.linkedin.com/in/raihan-rifat007)
+<div align="center">
+
+<a href="https://github.com/raihan-rifat007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://raihan07.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:raihan.rifat007@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/raihan-rifat007" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://twitter.com/raihan_rifat007" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+</a>
 
 </div>
