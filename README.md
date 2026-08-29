@@ -226,7 +226,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br><br>
 
-### 💡 Let's Collaborate!
+### Let's Collaborate!
 
 <a href="https://github.com/raihan-rifat007?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/👉_Explore_Repositories-0d47a1?style=for-the-badge&logoColor=white" alt="Repos" />
