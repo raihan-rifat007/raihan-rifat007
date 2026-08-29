@@ -273,6 +273,10 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/mGcNjsfWAc3qTwDEwM/giphy.gif" width="50" alt="Status"> Current Status
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/🟢_STATUS-ACTIVELY_DEVELOPING-brightgreen?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Status" />
 &nbsp;
 <img src="https://img.shields.io/badge/⚙️_WORKING_ON-Multiple_Projects-0d47a1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Working On" />
@@ -286,7 +290,8 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 ### 📍 Latest Projects
 
-<img src="https://readme-typing-svg.demolab.com/?lines=🎵%20YouTube%20Music%20API%20-%20Production%20Ready;🎬%20StreamVerse%20-%20Streaming%20Platform;🎨%20Portfolio%20-%20Modern%20Web%20Design;🚀%20Building%20Next%20Big%20Thing&font=Poppins&center=true&width=600&height=80&color=0d47a1&vCenter=true&duration=5000" alt="Latest Projects" />
+<img src="https://readme-typing-svg.demolab.com/?lines=YouTube%20Music%20API%20-%20Production%20Ready;StreamVerse%20-%20Streaming%20Platform;Portfolio%20-%20Modern%20Web%20Design;Building%20Next%20Big%20Thing&font=Poppins&center=true&width=600&height=80&color=0d47a1&vCenter=true&duration=5000&v=20260829" alt="Latest Projects" />
+
 </div>
 
 ---
