@@ -273,19 +273,17 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 ---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAc3qTwDEwM/giphy.gif" width="50" alt="Status"> Current Status
+## <img src="https://media.giphy.com/media/mGcNjsfWAc3qTwDEwM/giphy.gif" width="40" alt="Status"> Current Status
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAc3qTwDEwM/giphy.gif" width="50" alt="Status"> Current Status
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🟢_STATUS-ACTIVELY_DEVELOPING-brightgreen?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Status" />
+<img src="https://img.shields.io/static/v1?label=Status&message=Active&color=brightgreen&style=flat-square" alt="Status" />
 &nbsp;
-<img src="https://img.shields.io/badge/⚙️_WORKING_ON-Multiple_Projects-0d47a1?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Working On" />
+<img src="https://img.shields.io/static/v1?label=Focus&message=Full%20Stack&color=blue&style=flat-square" alt="Focus" />
+&nbsp;
+<img src="https://img.shields.io/static/v1?label=Projects&message=6&color=orange&style=flat-square" alt="Projects" />
 
-<br><br>
+</div>
 
 <!-- Working Typing SVG - Daily Updates -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently%20building%20scalable%20APIs;Exploring%20Web3%20%26%20Blockchain;Perfecting%20system%20design;Contributing%20to%20open%20source&font=Poppins&center=true&width=600&height=50&color=0d47a1&vCenter=true&duration=4000)
