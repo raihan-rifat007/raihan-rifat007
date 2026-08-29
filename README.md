@@ -360,24 +360,11 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-<a href="https://github.com/raihan-rifat007" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://raihan07.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:raihan.rifat007@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/raihan-rifat007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://twitter.com/raihan_rifat007" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
+| Platform | Link |
+|----------|------|
+| ![GitHub](https://img.icons8.com/ios-glyphs/30/ffffff/github.png) **GitHub** | [@raihan-rifat007](https://github.com/raihan-rifat007) |
+| ![Vercel](https://img.icons8.com/ios-glyphs/30/ffffff/domain.png) **Portfolio** | [raihan07.vercel.app](https://raihan07.vercel.app) |
+| ![Gmail](https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png) **Email** | [raihan.rifat007@gmail.com](mailto:raihan.rifat007@gmail.com) |
+| ![LinkedIn](https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png) **LinkedIn** | [/in/raihan-rifat007](https://www.linkedin.com/in/raihan-rifat007) |
 
 </div>
