@@ -233,7 +233,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 </a>
 &nbsp;
 <a href="https://www.buymeacoffee.com/raihan_rifat007" target="_blank">
-  <img src="https://img.shields.io/badge/☕_Support_Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  <img src="https://img.shields.io/badge/_Support_Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
 
 </div>
@@ -309,7 +309,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 </a>
 &nbsp;
 <a href="https://www.buymeacoffee.com/raihan_rifat007" target="_blank">
-  <img src="https://img.shields.io/badge/☕_Buy_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support" />
+  <img src="https://img.shields.io/badge/_Buy_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support" />
 </a>
 
 <br><br>
