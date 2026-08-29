@@ -1,4 +1,4 @@
-name: Generate All Effects
+name: Generate Snake
 
 on:
   schedule:
@@ -15,75 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # 1. Snake
+      # Snake Animation
       - uses: Platane/snk@v3
         with:
-          github_user_name: Professor-Bot07
+          github_user_name: raihan_rifat007
           outputs: |
             dist/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      # 2. Matrix
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/matrix/github-contribution-matrix.svg?palette=github-dark
-      
-      # 3. Fire
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/fire/github-contribution-fire.svg?palette=github-dark
-      
-      # 4. Paint Splash
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/paint/github-contribution-paint.svg?palette=github-dark
-      
-      # 5. Rain
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/rain/github-contribution-rain.svg?palette=github-dark
-      
-      # 6. Star
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/star/github-contribution-stars.svg?palette=github-dark
-      
-      # 7. Wave
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/wave/github-contribution-wave.svg?palette=github-dark
-      
-      # 8. Spiral
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/spiral/github-contribution-spiral.svg?palette=github-dark
-      
-      # 9. Particle
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/particle/github-contribution-particles.svg?palette=github-dark
-      
-      # 10. Gift Box
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Professor-Bot07
-          outputs: |
-            dist/giftbox/github-contribution-gift-box.svg?palette=github-dark
       
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
