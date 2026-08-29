@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=300&section=header&text=Hey%20I'm%20Raihan%20Ahmed%20👨%E2%80%8D💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20%7C%20🐧%20Linux%20Enthusiast%20%7C%20💡%20Problem%20Solver%20%7C%20🔧%20Open%20Source%20Contributor&descAlignY=58&descSize=20&fontFamily=Poppins" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=300&section=header&text=Hey%20I'm%20Raihan%20Ahmed%20%E2%80%8D&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Full%20Stack%20Developer%20%7C%20%20Linux%20Enthusiast%20%7C%20%20Problem%20Solver%20%7C%20🔧%20Open%20Source%20Contributor&descAlignY=58&descSize=20&fontFamily=Poppins" />
 
 <br>
 
@@ -13,22 +13,22 @@
 <!-- Professional Badges -->
 <div>
   <a href="https://github.com/raihan-rifat007">
-    <img src="https://komarev.com/ghpvc/?username=raihan-rifat007&label=🔍+Profile+Views&color=0d47a1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=raihan-rifat007&label=+Profile+Views&color=0d47a1&style=for-the-badge" alt="Profile Views" />
   </a>
   <br><br>
   <a href="https://github.com/raihan-rifat007?tab=followers">
-    <img src="https://img.shields.io/github/followers/raihan-rifat007?style=for-the-badge&color=0d47a1&logoColor=white&label=👥+Followers&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/raihan-rifat007?style=for-the-badge&color=0d47a1&logoColor=white&label=+Followers&logo=github" alt="GitHub Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/raihan-rifat007?tab=stars">
-    <img src="https://img.shields.io/github/stars/raihan-rifat007?style=for-the-badge&color=ffd700&logoColor=black&label=⭐+Total+Stars&logo=github" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/raihan-rifat007?style=for-the-badge&color=ffd700&logoColor=black&label=+Total+Stars&logo=github" alt="GitHub Stars" />
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/💻+Status-Actively+Coding-brightgreen?style=for-the-badge&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/+Status-Actively+Coding-brightgreen?style=for-the-badge&labelColor=0d1117" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🌍+Based+In-Bangladesh-red?style=for-the-badge&labelColor=0d1117&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/+Based+In-Bangladesh-red?style=for-the-badge&labelColor=0d1117&logo=google-maps&logoColor=white" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📚+Learning-AI%2FML-orange?style=for-the-badge&labelColor=0d1117" alt="Learning" />
+  <img src="https://img.shields.io/badge/+Learning-AI%2FML-orange?style=for-the-badge&labelColor=0d1117" alt="Learning" />
 </div>
 
 </div>
@@ -92,25 +92,25 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express&perline=9&theme=dark" alt="Languages & Frameworks" />
 
-### 🗄️ Databases & Backend
+### Databases & Backend
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,graphql,firebase,redis&perline=6&theme=dark" alt="Databases" />
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel,heroku,aws&perline=8&theme=dark" alt="Tools" />
 
-### 📱 Additional Technologies
+### Additional Technologies
 
 <img src="https://skillicons.dev/icons?i=flutter,figma,postman&perline=3&theme=dark" alt="Additional" />
 
 <br>
 
-### 📊 Proficiency Breakdown
+### Proficiency Breakdown
 
 | Technology | Level | Experience |
 |-----------|-------|------------|
@@ -129,17 +129,17 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 🚀 My Best Work
+### My Best Work
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
-| **📱 YouTube-API** | Enterprise REST API for YouTube Music metadata & streaming | Deno • TypeScript • REST • LRCLib | [![Repo](https://img.shields.io/badge/📂_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/YouTube-API) [![Docs](https://img.shields.io/badge/📖_Docs-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/YouTube-API#readme) |
-| **🎬 StreamVerse** | Full-stack movie streaming platform | React • Node.js • MongoDB | [![Repo](https://img.shields.io/badge/📂_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/streamverse) [![Live](https://img.shields.io/badge/🌐_Live-0d47a1?style=flat-square)](https://streamverse07.vercel.app) |
-| **💼 Portfolio** | Modern professional portfolio website | Next.js • Tailwind • Framer Motion | [![Repo](https://img.shields.io/badge/📂_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/portfolio) [![Live](https://img.shields.io/badge/🌐_Live-0d47a1?style=flat-square)](https://raihan07.vercel.app) |
+| **YouTube-API** | Enterprise REST API for YouTube Music metadata & streaming | Deno • TypeScript • REST • LRCLib | [![Repo](https://img.shields.io/badge/∆_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/YouTube-API) [![Docs](https://img.shields.io/badge/✓_Docs-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/YouTube-API#readme) |
+| **StreamVerse** | Full-stack movie streaming platform | React • Node.js • MongoDB | [![Repo](https://img.shields.io/badge/∆_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/streamverse) [![Live](https://img.shields.io/badge/✓_Live-0d47a1?style=flat-square)](https://streamverse07.vercel.app) |
+| **Portfolio** | Modern professional portfolio website | Next.js • Tailwind • Framer Motion | [![Repo](https://img.shields.io/badge/∆_Repo-0d47a1?style=flat-square)](https://github.com/raihan-rifat007/portfolio) [![Live](https://img.shields.io/badge/✓_Live-0d47a1?style=flat-square)](https://raihan07.vercel.app) |
 
 <br>
 
-#### 📌 **[View All Projects →](https://github.com/raihan-rifat007?tab=repositories)**
+#### **[View All Projects →](https://github.com/raihan-rifat007?tab=repositories)**
 
 </div>
 
@@ -149,7 +149,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 📊 Statistics Overview
+### Statistics Overview
 
 <!-- GitHub Stats Extended (Maintained Successor) -->
 <div>
@@ -160,19 +160,19 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br>
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-rifat007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d47a1&ring=ffd700&fire=ffd700" alt="GitHub Streak Stats" width="100%" />
 
 <br>
 
-### 📈 Activity Graph
+### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihan-rifat007&theme=github-dark&hide_border=true&area=true&background=0d1117&color=0d47a1" alt="Contribution Graph" width="100%" />
 
 <br>
 
-### 🏆 Achievements & Trophies
+### Achievements & Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=raihan-rifat007&theme=github_dark&no-frame=true&column=4&row=2&margin-w=15" alt="GitHub Trophies" width="100%" />
 
@@ -184,7 +184,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 🐍 My GitHub Contributions
+### My GitHub Contributions
 
 <img src="https://raw.githubusercontent.com/raihan-rifat007/raihan-rifat007/output/snake/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
@@ -196,7 +196,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 📱 Get In Touch
+### Get In Touch
 
 <a href="mailto:raihan.rifat007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
@@ -244,19 +244,19 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-### 🚀 Career Timeline
+### Career Timeline
 
 | Milestone | Details | Date |
 |-----------|---------|------|
-| 🎓 **Self-Taught Developer** | Started learning web development independently | 2021 |
-| 💻 **Full Stack Development** | Mastered frontend + backend technologies | 2022 |
-| 🔧 **Open Source Contributions** | Contributing to 30+ projects | 2023 |
-| 📚 **Advanced Topics** | System design, DevOps, Cloud architecture | 2024 |
-| 🚀 **Current Focus** | AI/ML integration, Building SaaS products | 2025 |
+|  **Self-Taught Developer** | Started learning web development independently | 2021 |
+|  **Full Stack Development** | Mastered frontend + backend technologies | 2022 |
+|  **Open Source Contributions** | Contributing to 30+ projects | 2023 |
+|  **Advanced Topics** | System design, DevOps, Cloud architecture | 2024 |
+|  **Current Focus** | AI/ML integration, Building SaaS products | 2025 |
 
 <br>
 
-### 🎯 Key Achievements
+### Key Achievements
 
 ✅ Built **enterprise-grade REST APIs** with Deno & TypeScript  
 ✅ Created **full-stack streaming platform** with 100K+ users  
@@ -288,7 +288,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br>
 
-### 📍 Latest Projects
+### Latest Projects
 
 <img src="https://readme-typing-svg.demolab.com/?lines=YouTube%20Music%20API%20-%20Production%20Ready;StreamVerse%20-%20Streaming%20Platform;Portfolio%20-%20Modern%20Web%20Design;Building%20Next%20Big%20Thing&font=Poppins&center=true&width=600&height=80&color=0d47a1&vCenter=true&duration=5000&v=20260829" alt="Latest Projects" />
 
@@ -314,7 +314,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br><br>
 
-### 🎨 Tools & Services Used
+### Tools & Services Used
 
 - **Stats & Analytics:** GitHub Stats Extended, Streak Stats, Activity Graph
 - **Badges & Icons:** Shields.io, Skill Icons, Capability Render
@@ -323,7 +323,7 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br>
 
-### 📝 Latest Updates
+### Latest Updates
 
 - ✅ Deployed YouTube Music API to production
 - ✅ Implemented advanced caching strategies
@@ -341,17 +341,17 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <br><br>
 
-**Made with ❤️ by Raihan Ahmed**
+**Made with ♥️ by Raihan Ahmed**
 
 <a href="https://github.com/raihan-rifat007">
   <img src="https://img.shields.io/github/last-commit/raihan-rifat007/raihan-rifat007?style=flat-square&color=0d47a1&logoColor=white&label=Last%20Updated" alt="Last Updated" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/© 2024-2025-All Rights Reserved-blue?style=flat-square&color=0d47a1" alt="Copyright" />
+<img src="https://img.shields.io/badge/© 2025-2026-All Rights Reserved-blue?style=flat-square&color=0d47a1" alt="Copyright" />
 
 <br><br>
 
-### 🎯 Quick Links
+### Quick Links
 
 [**GitHub**](https://github.com/raihan-rifat007) • 
 [**Portfolio**](https://raihan07.vercel.app) • 
