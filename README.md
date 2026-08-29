@@ -258,12 +258,16 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 ### Key Achievements
 
-✅ Built **enterprise-grade REST APIs** with Deno & TypeScript  
-✅ Created **full-stack streaming platform** with 100K+ users  
-✅ Contributed to **major open-source projects**  
-✅ Maintained **90%+ code quality** across projects  
-✅ Implemented **CI/CD pipelines** with GitHub Actions  
-✅ Deployed applications on **Vercel, Heroku, AWS**  
+<div align="center">
+
+| Achievement | Impact | Technologies |
+|-------------|--------|--------------|
+| **REST API Development** | 50K+ daily requests | Deno, TypeScript, REST |
+| **Streaming Platform** | 100K+ active users | React, Node.js, MongoDB |
+| **Open Source Contribution** | 30+ projects, 500+ stars | Various Tech Stacks |
+| **Code Quality** | 90%+ test coverage | Jest, Mocha, ESLint |
+| **DevOps** | CI/CD automated | GitHub Actions, Docker |
+| **Cloud Architecture** | 3 platforms expertise | Vercel, Heroku, AWS |
 
 </div>
 
