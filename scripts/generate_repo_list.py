@@ -16,12 +16,15 @@ while True:
     url = f'https://api.github.com/users/{username}/repos?page={page}&per_page=100&sort=updated&type=public'
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
+        print(f"Error: {response.status_code}")
         break
     data = response.json()
     if not data:
         break
     repos.extend(data)
     page += 1
+
+print(f"Found {len(repos)} repositories")
 
 filtered_repos = [repo for repo in repos if not repo['fork']]
 top_repos = filtered_repos[:6]
@@ -50,8 +53,15 @@ table_body = "\n".join(table_rows)
 new_table = f"{table_header}\n{table_separator}\n{table_body}"
 
 readme_path = 'README.md'
+
+if not os.path.exists(readme_path):
+    print(f"Error: {readme_path} not found!")
+    exit(1)
+
 with open(readme_path, 'r', encoding='utf-8') as file:
     content = file.read()
+
+print("Found README.md")
 
 new_section = f'''## Featured Projects
 
@@ -67,10 +77,17 @@ new_section = f'''## Featured Projects
 
 </div>'''
 
-pattern = r'## Featured Projects.*?(?=\n##|\Z)'
-updated_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+# Try to find and replace the section
+if '## Featured Projects' in content:
+    pattern = r'## Featured Projects.*?(?=\n##|\Z)'
+    updated_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+    print("Found and replaced Featured Projects section")
+else:
+    print("Warning: '## Featured Projects' not found in README")
+    updated_content = content
 
+# Write the file
 with open(readme_path, 'w', encoding='utf-8') as file:
     file.write(updated_content)
 
-print("README updated successfully!")
+print("README update completed!")
