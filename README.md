@@ -360,11 +360,33 @@ print(f"Welcome to {dev.name}'s GitHub!")
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| ![GitHub](https://img.icons8.com/ios-glyphs/30/ffffff/github.png) **GitHub** | [@raihan-rifat007](https://github.com/raihan-rifat007) |
-| ![Vercel](https://img.icons8.com/ios-glyphs/30/ffffff/domain.png) **Portfolio** | [raihan07.vercel.app](https://raihan07.vercel.app) |
-| ![Gmail](https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png) **Email** | [raihanrifat9721@gmail.com](mailto:raihan.rifat007@gmail.com) |
-| ![LinkedIn](https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png) **LinkedIn** | [/in/raihan-rifat007](https://www.linkedin.com/in/raihan-rifat007) |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/raihan-rifat007">
+        <img src="https://img.icons8.com/ios-glyphs/40/ffffff/github.png" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://raihan07.vercel.app">
+        <img src="https://img.icons8.com/ios-glyphs/40/ffffff/domain.png" /><br>
+        <sub><b>Portfolio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:raihan.rifat007@gmail.com">
+        <img src="https://img.icons8.com/ios-glyphs/40/ffffff/gmail.png" /><br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/raihan-rifat007">
+        <img src="https://img.icons8.com/ios-glyphs/40/ffffff/linkedin.png" /><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
