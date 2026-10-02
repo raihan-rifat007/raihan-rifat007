@@ -6,7 +6,7 @@
   <a href="https://github.com/raihan-rifat007?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/raihan-rifat007?style=flat-square&logo=github&label=followers&color=0d47a1"></a>
   <img alt="Status" src="https://img.shields.io/badge/Status-Actively_coding-2ea043?style=flat-square">
   <img alt="Location" src="https://img.shields.io/badge/Based_in-Naogaon%2C_Bangladesh-0d47a1?style=flat-square">
-  <a href="https://dev-raihan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dev-raihan.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://dev-raihan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dev--raihan.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white"></a>
 </p>
 
 ## About
@@ -116,8 +116,8 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">Open to collaborations, freelance work and open source. If you have an idea, let&apos;s talk.</p>
 
 <p align="center">
-  <a href="mailto:raihan.rifat007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://raihan07.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:raihanrifat0xdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://dev-raihan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/raihan-rifat007"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/raihan_rifat007"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/raihan_rifat007"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
