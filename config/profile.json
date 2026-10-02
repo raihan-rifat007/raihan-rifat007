@@ -6,8 +6,8 @@
   "tagline": "Building scalable systems and AI-driven solutions",
   "roles": ["Full Stack Developer", "Linux Enthusiast", "Problem Solver", "Open Source Contributor"],
   "location": "Naogaon, Bangladesh",
-  "email": "raihan.rifat007@gmail.com",
-  "website": "https://raihan07.vercel.app",
+  "email": "raihanrifat0xdev@gmail.com",
+  "website": "https://dev-raihan.vercel.app",
   "status": "Actively coding",
   "accent": "#0d47a1",
   "about": "I design and build full-stack applications with a growing focus on AI. I care about clean code, solid UX and systems that stay simple as they scale.",
@@ -29,7 +29,7 @@
     { "year": "2026", "text": "Full-stack focus with Next.js, TypeScript and databases." }
   ],
   "socials": [
-    { "label": "Portfolio", "url": "https://raihan07.vercel.app", "color": "0d47a1", "logo": "vercel" },
+    { "label": "Portfolio", "url": "https://dev-raihan.vercel.app", "color": "0d47a1", "logo": "vercel" },
     { "label": "LinkedIn", "url": "https://www.linkedin.com/in/raihan-rifat007", "color": "0A66C2", "logo": "linkedin" },
     { "label": "X", "url": "https://twitter.com/raihan_rifat007", "color": "000000", "logo": "x" },
     { "label": "Instagram", "url": "https://www.instagram.com/raihan_rifat007", "color": "E4405F", "logo": "instagram" },
@@ -63,7 +63,7 @@
         "name": "MyPortfolio",
         "description": "3D glassmorphism portfolio with a cat AI companion",
         "url": "https://github.com/raihan-rifat007/MyPortfolio",
-        "homepage": "https://raihan07.vercel.app",
+        "homepage": "https://dev-raihan.vercel.app",
         "language": "TypeScript",
         "topics": ["react", "vite", "tailwind"]
       }
