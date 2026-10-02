@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-labelledby="t d">
   <title id="t">raihan-rifat007 GitHub overview</title>
-  <desc id="d">Repositories: —, Stars earned: —, Forks: —, Followers: —, Contributions · 1y: —, Pull requests · 1y: —</desc>
+  <desc id="d">Repositories: 12, Stars earned: 1, Forks: 0, Followers: 1, Contributions · 1y: 887, Pull requests · 1y: 154</desc>
   <style>
     text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .title { font-size: 15px; font-weight: 600; fill: #1f2328; }
@@ -17,10 +17,10 @@
   </style>
   <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#ffffff" stroke="#d0d7de"/>
   <text class="title" x="25" y="36">GitHub overview</text><rect x="25" y="46" width="32" height="3" rx="1.5" fill="#0969da"/>
-  <g class="rise" style="animation-delay:0.00s"><text class="label" x="25" y="84">REPOSITORIES</text><text class="value" x="25" y="112">—</text></g>
-  <g class="rise" style="animation-delay:0.07s"><text class="label" x="185" y="84">STARS EARNED</text><text class="value" x="185" y="112">—</text></g>
-  <g class="rise" style="animation-delay:0.14s"><text class="label" x="345" y="84">FORKS</text><text class="value" x="345" y="112">—</text></g>
-  <g class="rise" style="animation-delay:0.21s"><text class="label" x="25" y="144">FOLLOWERS</text><text class="value" x="25" y="172">—</text></g>
-  <g class="rise" style="animation-delay:0.28s"><text class="label" x="185" y="144">CONTRIBUTIONS · 1Y</text><text class="value" x="185" y="172">—</text></g>
-  <g class="rise" style="animation-delay:0.35s"><text class="label" x="345" y="144">PULL REQUESTS · 1Y</text><text class="value" x="345" y="172">—</text></g>
+  <g class="rise" style="animation-delay:0.00s"><text class="label" x="25" y="84">REPOSITORIES</text><text class="value" x="25" y="112">12</text></g>
+  <g class="rise" style="animation-delay:0.07s"><text class="label" x="185" y="84">STARS EARNED</text><text class="value" x="185" y="112">1</text></g>
+  <g class="rise" style="animation-delay:0.14s"><text class="label" x="345" y="84">FORKS</text><text class="value" x="345" y="112">0</text></g>
+  <g class="rise" style="animation-delay:0.21s"><text class="label" x="25" y="144">FOLLOWERS</text><text class="value" x="25" y="172">1</text></g>
+  <g class="rise" style="animation-delay:0.28s"><text class="label" x="185" y="144">CONTRIBUTIONS · 1Y</text><text class="value" x="185" y="172">887</text></g>
+  <g class="rise" style="animation-delay:0.35s"><text class="label" x="345" y="144">PULL REQUESTS · 1Y</text><text class="value" x="345" y="172">154</text></g>
 </svg>

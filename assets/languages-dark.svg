@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-labelledby="t d">
   <title id="t">raihan-rifat007 top languages</title>
-  <desc id="d">No language data yet</desc>
+  <desc id="d">HTML 41.8%, JavaScript 27.0%, Python 15.7%, TypeScript 7.7%, CSS 7.7%, Other 0.2%</desc>
   <style>
     text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .title { font-size: 15px; font-weight: 600; fill: #e6edf3; }
@@ -17,5 +17,13 @@
   </style>
   <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text class="title" x="25" y="36">Top languages</text><rect x="25" y="46" width="32" height="3" rx="1.5" fill="#58a6ff"/>
-  <text class="small" x="247.5" y="115" text-anchor="middle">Language data will appear after the first automated run</text>
+  <clipPath id="bar"><rect x="25" y="62" width="445" height="10" rx="5"/></clipPath>
+  <rect x="25" y="62" width="445" height="10" rx="5" fill="#21262d"/>
+  <g clip-path="url(#bar)"><rect x="25.00" y="62" width="186.01" height="10" fill="#e34c26"/><rect x="211.01" y="62" width="120.15" height="10" fill="#f1e05a"/><rect x="331.16" y="62" width="69.86" height="10" fill="#3572a5"/><rect x="401.02" y="62" width="34.27" height="10" fill="#3178c6"/><rect x="435.29" y="62" width="34.27" height="10" fill="#563d7c"/><rect x="469.55" y="62" width="1.00" height="10" fill="#8b949e"/></g>
+  <g class="rise" style="animation-delay:0.00s"><circle cx="30" cy="100" r="5" fill="#e34c26"/><text class="name" x="43" y="104">HTML</text><text class="small" x="225" y="104" text-anchor="end">41.8%</text></g>
+  <g class="rise" style="animation-delay:0.08s"><circle cx="260" cy="100" r="5" fill="#f1e05a"/><text class="name" x="273" y="104">JavaScript</text><text class="small" x="455" y="104" text-anchor="end">27.0%</text></g>
+  <g class="rise" style="animation-delay:0.16s"><circle cx="30" cy="130" r="5" fill="#3572a5"/><text class="name" x="43" y="134">Python</text><text class="small" x="225" y="134" text-anchor="end">15.7%</text></g>
+  <g class="rise" style="animation-delay:0.24s"><circle cx="260" cy="130" r="5" fill="#3178c6"/><text class="name" x="273" y="134">TypeScript</text><text class="small" x="455" y="134" text-anchor="end">7.7%</text></g>
+  <g class="rise" style="animation-delay:0.32s"><circle cx="30" cy="160" r="5" fill="#563d7c"/><text class="name" x="43" y="164">CSS</text><text class="small" x="225" y="164" text-anchor="end">7.7%</text></g>
+  <g class="rise" style="animation-delay:0.40s"><circle cx="260" cy="160" r="5" fill="#8b949e"/><text class="name" x="273" y="164">Other</text><text class="small" x="455" y="164" text-anchor="end">0.2%</text></g>
 </svg>

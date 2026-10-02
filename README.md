@@ -53,9 +53,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 | Project | Description | Stack | ★ | Links |
 | :-- | :-- | :-- | --: | :-- |
-| **[YouTube-API](https://github.com/raihan-rifat007/YouTube-API)** | Enterprise REST API for YouTube Music metadata and streaming | TypeScript • deno • rest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTube-API) |
-| **[streamverse](https://github.com/raihan-rifat007/streamverse)** | Full-stack movie streaming platform | JavaScript • react • nodejs • mongodb | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse07.vercel.app) |
-| **[MyPortfolio](https://github.com/raihan-rifat007/MyPortfolio)** | 3D glassmorphism portfolio with a cat AI companion | TypeScript • react • vite • tailwind | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MyPortfolio) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://raihan07.vercel.app) |
+| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | Flask API for AI image generation powered by Google Gemini. Production-ready endpoints fo… | HTML • ai • api • flask | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Production-ready Pinterest scraper with premium web UI, board/pin export and clean downlo… | Python • crawler • data • export | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihan.onrender.com) |
+| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | Deno TypeScript REST API for YouTube Music — search tracks and streaming metadata for bot… | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
+| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | Telegram music bot — search, play, lyrics, inline mode and Mini App. Self-hosted, lightwe… | JavaScript • api • bot • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybot-by-raihan.onrender.com) |
+| **[badge-playground](https://github.com/raihan-rifat007/badge-playground)** | Sandbox for GitHub workflows, PRs and experiments. Not a product repo. | — | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/badge-playground) |
+| **[vidly](https://github.com/raihan-rifat007/vidly)** | Lightweight Node.js package to download videos from popular platforms. Simple API for app… | JavaScript • downloader • library • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/vidly) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -64,7 +67,7 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub overview: n/a repositories, n/a stars, n/a followers" src="assets/stats-light.svg" width="49%">
+  <img alt="GitHub overview: 12 repositories, 1 stars, 1 followers" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
@@ -88,7 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-_Recent public activity will show up here._
+- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-01`
+- 🔨 Pushed 2 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
+- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-01`
+- 🔨 Pushed 31 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
+- ⭐ Starred [namokla2005/ZerynBot](https://github.com/namokla2005/ZerynBot) · `2026-10-01`
+- 🔨 Pushed 21 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
 
 <details>
 <summary><b>Journey</b></summary>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="830" height="214" viewBox="0 0 830 214" fill="none" role="img" aria-labelledby="t d">
   <title id="t">raihan-rifat007 contribution activity</title>
-  <desc id="d">Contribution data is not available yet</desc>
+  <desc id="d">887 contributions in the last year, current streak 8 days, longest streak 8 days</desc>
   <style>
     text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
     .title { font-size: 15px; font-weight: 600; fill: #e6edf3; }
@@ -17,9 +17,20 @@
   </style>
   <rect x="0.5" y="0.5" width="829" height="213" rx="10" fill="#0d1117" stroke="#30363d"/>
   <text class="title" x="25" y="36">Contribution activity</text><rect x="25" y="46" width="32" height="3" rx="1.5" fill="#58a6ff"/>
-  <g class="rise" style="animation-delay:0.00s"><text class="label" x="25" y="68">CONTRIBUTIONS · LAST YEAR</text><text class="value" x="25" y="98">—</text></g>
-  <g class="rise" style="animation-delay:0.08s"><text class="label" x="295" y="68">CURRENT STREAK · DAYS</text><text class="value accent" x="295" y="98">—</text></g>
-  <g class="rise" style="animation-delay:0.16s"><text class="label" x="565" y="68">LONGEST STREAK · DAYS</text><text class="value" x="565" y="98">—</text></g>
+  <g class="rise" style="animation-delay:0.00s"><text class="label" x="25" y="68">CONTRIBUTIONS · LAST YEAR</text><text class="value" x="25" y="98">887</text></g>
+  <g class="rise" style="animation-delay:0.08s"><text class="label" x="295" y="68">CURRENT STREAK · DAYS</text><text class="value accent" x="295" y="98">8</text></g>
+  <g class="rise" style="animation-delay:0.16s"><text class="label" x="565" y="68">LONGEST STREAK · DAYS</text><text class="value" x="565" y="98">8</text></g>
   <line x1="25" x2="805" y1="180" y2="180" stroke="#30363d"/>
-  <text class="small" x="415" y="150" text-anchor="middle">Contribution data will appear after the first automated run</text>
+  <g><rect class="bar" style="animation-delay:0.00s" x="40.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="57.5" y="198" text-anchor="middle">Nov</text></g>
+  <g><rect class="bar" style="animation-delay:0.05s" x="105.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="122.5" y="198" text-anchor="middle">Dec</text></g>
+  <g><rect class="bar" style="animation-delay:0.10s" x="170.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="187.5" y="198" text-anchor="middle">Jan</text></g>
+  <g><rect class="bar" style="animation-delay:0.15s" x="235.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="252.5" y="198" text-anchor="middle">Feb</text></g>
+  <g><rect class="bar" style="animation-delay:0.20s" x="300.5" y="177" width="34" height="3" rx="3" fill="#58a6ff" opacity="0.55"/><text class="small" x="317.5" y="172" text-anchor="middle">1</text><text class="small" x="317.5" y="198" text-anchor="middle">Mar</text></g>
+  <g><rect class="bar" style="animation-delay:0.25s" x="365.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="382.5" y="198" text-anchor="middle">Apr</text></g>
+  <g><rect class="bar" style="animation-delay:0.30s" x="430.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="447.5" y="198" text-anchor="middle">May</text></g>
+  <g><rect class="bar" style="animation-delay:0.35s" x="495.5" y="178" width="34" height="2" rx="3" fill="#21262d" opacity="1"/><text class="small" x="512.5" y="198" text-anchor="middle">Jun</text></g>
+  <g><rect class="bar" style="animation-delay:0.40s" x="560.5" y="175" width="34" height="5" rx="3" fill="#58a6ff" opacity="0.59"/><text class="small" x="577.5" y="170" text-anchor="middle">53</text><text class="small" x="577.5" y="198" text-anchor="middle">Jul</text></g>
+  <g><rect class="bar" style="animation-delay:0.45s" x="625.5" y="159" width="34" height="21" rx="3" fill="#58a6ff" opacity="0.72"/><text class="small" x="642.5" y="154" text-anchor="middle">223</text><text class="small" x="642.5" y="198" text-anchor="middle">Aug</text></g>
+  <g><rect class="bar" style="animation-delay:0.50s" x="690.5" y="124" width="34" height="56" rx="3" fill="#58a6ff" opacity="1.00"/><text class="small" x="707.5" y="119" text-anchor="middle">606</text><text class="small" x="707.5" y="198" text-anchor="middle">Sep</text></g>
+  <g><rect class="bar" style="animation-delay:0.55s" x="755.5" y="177" width="34" height="3" rx="3" fill="#58a6ff" opacity="0.55"/><text class="small" x="772.5" y="172" text-anchor="middle">4</text><text class="small" x="772.5" y="198" text-anchor="middle">Oct</text></g>
 </svg>
