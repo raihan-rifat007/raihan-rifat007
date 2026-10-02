@@ -6,7 +6,7 @@
   <a href="https://github.com/raihan-rifat007?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/raihan-rifat007?style=flat-square&logo=github&label=followers&color=0d47a1"></a>
   <img alt="Status" src="https://img.shields.io/badge/Status-Actively_coding-2ea043?style=flat-square">
   <img alt="Location" src="https://img.shields.io/badge/Based_in-Naogaon%2C_Bangladesh-0d47a1?style=flat-square">
-  <a href="https://dev-raihan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-raihan07.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://dev-raihan.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-dev-raihan.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white"></a>
 </p>
 
 ## About
