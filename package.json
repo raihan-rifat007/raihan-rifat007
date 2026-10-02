@@ -1,0 +1,16 @@
+{
+  "name": "raihan-rifat007-profile",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-updating GitHub profile README for Raihan Ahmed",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --offline",
+    "check": "node scripts/build.mjs --check",
+    "test": "node --test test/*.test.mjs"
+  }
+}

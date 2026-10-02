@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">Raihan Ahmed</title>
+  <desc id="d">Raihan Ahmed · Full Stack Developer, Linux Enthusiast, Problem Solver, Open Source Contributor</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#426fb6"/>
+      <stop offset="0.45" stop-color="#0d47a1"/>
+      <stop offset="1" stop-color="#051c40"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#ffffff" stroke-opacity="0.07"/>
+    </pattern>
+    <clipPath id="round"><rect width="1000" height="240" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="240" fill="url(#bg)"/>
+    <rect width="1000" height="240" fill="url(#grid)"/>
+    <circle cx="830" cy="50" r="170" fill="url(#glow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-50 34;0 0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="250" r="140" fill="url(#glow)" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0 0;40 -24;0 0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <text x="620" y="178" font-size="170" font-weight="800" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#ffffff" fill-opacity="0.1">&lt;/&gt;</text>
+  </g>
+  <text x="60" y="108" font-size="54" font-weight="800" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" fill="#ffffff" letter-spacing="-1">Raihan Ahmed</text>
+  <text x="60" y="158" font-size="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#ffffff" opacity="1">&gt; Full Stack Developer<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.22;0.25;1" dur="12s" repeatCount="indefinite"/></text>
+  <text x="60" y="158" font-size="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#ffffff" opacity="0">&gt; Linux Enthusiast<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="12s" repeatCount="indefinite"/></text>
+  <text x="60" y="158" font-size="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#ffffff" opacity="0">&gt; Problem Solver<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="12s" repeatCount="indefinite"/></text>
+  <text x="60" y="158" font-size="22" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#ffffff" opacity="0">&gt; Open Source Contributor<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.75;0.78;1" dur="12s" repeatCount="indefinite"/></text>
+  <text x="60" y="200" font-size="15" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" fill="#ffffff" fill-opacity="0.75">Building scalable systems and AI-driven solutions</text>
+</svg>

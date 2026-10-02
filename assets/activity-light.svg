@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="214" viewBox="0 0 830 214" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">raihan-rifat007 contribution activity</title>
+  <desc id="d">Contribution data is not available yet</desc>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 15px; font-weight: 600; fill: #1f2328; }
+    .label { font-size: 10px; font-weight: 600; letter-spacing: 0.08em; fill: #656d76; }
+    .value { font-size: 26px; font-weight: 700; fill: #1f2328; }
+    .accent { fill: #0969da; }
+    .small { font-size: 11px; fill: #656d76; }
+    .name { font-size: 12px; fill: #1f2328; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+    .rise { animation: rise 0.6s ease-out both; }
+    .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+    @media (prefers-reduced-motion: reduce) { .rise, .bar { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="829" height="213" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text class="title" x="25" y="36">Contribution activity</text><rect x="25" y="46" width="32" height="3" rx="1.5" fill="#0969da"/>
+  <g class="rise" style="animation-delay:0.00s"><text class="label" x="25" y="68">CONTRIBUTIONS · LAST YEAR</text><text class="value" x="25" y="98">—</text></g>
+  <g class="rise" style="animation-delay:0.08s"><text class="label" x="295" y="68">CURRENT STREAK · DAYS</text><text class="value accent" x="295" y="98">—</text></g>
+  <g class="rise" style="animation-delay:0.16s"><text class="label" x="565" y="68">LONGEST STREAK · DAYS</text><text class="value" x="565" y="98">—</text></g>
+  <line x1="25" x2="805" y1="180" y2="180" stroke="#d0d7de"/>
+  <text class="small" x="415" y="150" text-anchor="middle">Contribution data will appear after the first automated run</text>
+</svg>
