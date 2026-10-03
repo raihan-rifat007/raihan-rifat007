@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- 🔨 Pushed 1 commit to [Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper) · `2026-10-01`
 - 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-01`
 - 🔨 Pushed 2 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
 - 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-01`
 - 🔨 Pushed 31 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
 - ⭐ Starred [namokla2005/ZerynBot](https://github.com/namokla2005/ZerynBot) · `2026-10-01`
-- 🔨 Pushed 21 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
 
 <details>
 <summary><b>Journey</b></summary>
