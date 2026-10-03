@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- 🔨 Pushed 1 commit to [Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper) · `2026-10-01`
-- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-01`
-- 🔨 Pushed 2 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
-- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-01`
-- 🔨 Pushed 31 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-09-30`
-- ⭐ Starred [namokla2005/ZerynBot](https://github.com/namokla2005/ZerynBot) · `2026-10-01`
+- ⭐ Starred [tas33n/email-bomber](https://github.com/tas33n/email-bomber) · `2026-10-03`
+- ⭐ Starred [tas33n/MeowDownloader](https://github.com/tas33n/MeowDownloader) · `2026-10-03`
+- ⭐ Starred [0xarchit/Terabox-Downloader](https://github.com/0xarchit/Terabox-Downloader) · `2026-10-03`
+- ⭐ Starred [tas33n/Terabox-Downloader](https://github.com/tas33n/Terabox-Downloader) · `2026-10-03`
+- ⭐ Starred [tas33n/telegram-image-hosting](https://github.com/tas33n/telegram-image-hosting) · `2026-10-03`
+- ⭐ Starred [tas33n/student-card-generator](https://github.com/tas33n/student-card-generator) · `2026-10-03`
 
 <details>
 <summary><b>Journey</b></summary>
