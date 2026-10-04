@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-04`
-- 🔨 Pushed 2 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
-- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-04`
 - 🔨 Pushed 1 commit to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
-- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-04`
-- 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-04`
+- 🔨 Pushed 1 commit to [Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper) · `2026-10-04`
+- 🔨 Pushed 1 commit to [VideoAPI](https://github.com/raihan-rifat007/VideoAPI) · `2026-10-04`
+- 🔨 Pushed 1 commit to [VideoDownloader](https://github.com/raihan-rifat007/VideoDownloader) · `2026-10-04`
+- 🔨 Pushed 1 commit to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
+- 🔨 Pushed 1 commit to [PinterestDownloader](https://github.com/raihan-rifat007/PinterestDownloader) · `2026-10-04`
 
 <details>
 <summary><b>Journey</b></summary>
