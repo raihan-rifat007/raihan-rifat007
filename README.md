@@ -53,12 +53,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 | Project | Description | Stack | ★ | Links |
 | :-- | :-- | :-- | --: | :-- |
-| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | Flask API for AI image generation powered by Google Gemini. Production-ready endpoints fo… | HTML • ai • api • flask | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
-| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Production-ready Pinterest scraper with premium web UI, board/pin export and clean downlo… | Python • crawler • data • export | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihan.onrender.com) |
-| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | Deno TypeScript REST API for YouTube Music — search tracks and streaming metadata for bot… | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
-| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | Telegram music bot — search, play, lyrics, inline mode and Mini App. Self-hosted, lightwe… | JavaScript • api • bot • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybot-by-raihan.onrender.com) |
-| **[badge-playground](https://github.com/raihan-rifat007/badge-playground)** | Sandbox for GitHub workflows, PRs and experiments. Not a product repo. | — | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/badge-playground) |
-| **[vidly](https://github.com/raihan-rifat007/vidly)** | Lightweight Node.js package to download videos from popular platforms. Simple API for app… | JavaScript • downloader • library • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/vidly) |
+| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | Flask API for AI image generation with Google Gemini. Simple endpoints for apps and bots. | HTML • ai • api • flask | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
+| **[vidly](https://github.com/raihan-rifat007/vidly)** | Lightweight Node.js package to download videos from popular platforms. Simple API for dev… | JavaScript • downloader • library • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/vidly) |
+| **[badge-playground](https://github.com/raihan-rifat007/badge-playground)** | Sandbox for GitHub workflows, badges, and experiments. Safe place to test CI ideas. | badges • ci • experiments | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/badge-playground) |
+| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | Telegram music bot for search, stream links, lyrics, and inline mode. Easy self-hosted No… | JavaScript • bot • music • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybot-by-raihan.onrender.com) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest scraper with a clean web UI. Export pins, boards, and images for research or pe… | Python • crawler • data • export | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihan.onrender.com) |
+| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTube Music REST API in Deno and TypeScript. Search tracks, albums, and playlists with… | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [tas33n/email-bomber](https://github.com/tas33n/email-bomber) · `2026-10-03`
-- ⭐ Starred [tas33n/MeowDownloader](https://github.com/tas33n/MeowDownloader) · `2026-10-03`
-- ⭐ Starred [0xarchit/Terabox-Downloader](https://github.com/0xarchit/Terabox-Downloader) · `2026-10-03`
-- ⭐ Starred [tas33n/Terabox-Downloader](https://github.com/tas33n/Terabox-Downloader) · `2026-10-03`
-- ⭐ Starred [tas33n/telegram-image-hosting](https://github.com/tas33n/telegram-image-hosting) · `2026-10-03`
-- ⭐ Starred [tas33n/student-card-generator](https://github.com/tas33n/student-card-generator) · `2026-10-03`
+- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-04`
+- 🔨 Pushed 2 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
+- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-04`
+- 🔨 Pushed 1 commit to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
+- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-04`
+- 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-04`
 
 <details>
 <summary><b>Journey</b></summary>
