@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- 🔨 Pushed 4 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
+- 🔨 Pushed 1 commit to [ImageGen](https://github.com/raihan-rifat007/ImageGen) · `2026-10-04`
+- 🔨 Pushed 1 commit to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
+- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-04`
 - ⭐ Starred [frnAlt/Floppa-Chatbot](https://github.com/frnAlt/Floppa-Chatbot) · `2026-10-05`
 - ⭐ Starred [frnAlt/InstaBOT](https://github.com/frnAlt/InstaBOT) · `2026-10-05`
-- ⭐ Starred [frnAlt/fca](https://github.com/frnAlt/fca) · `2026-10-05`
-- ⭐ Starred [frnAlt/fca-native](https://github.com/frnAlt/fca-native) · `2026-10-05`
-- ⭐ Starred [frnAlt/Baka-Chan-bot-fix](https://github.com/frnAlt/Baka-Chan-bot-fix) · `2026-10-05`
-- ⭐ Starred [frnAlt/facebookChatBot](https://github.com/frnAlt/facebookChatBot) · `2026-10-05`
 
 <details>
 <summary><b>Journey</b></summary>
