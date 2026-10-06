@@ -53,12 +53,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 | Project | Description | Stack | ★ | Links |
 | :-- | :-- | :-- | --: | :-- |
+| **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Free open-source IPTV web app. Browse global channels with a modern player UI. | TypeScript • iptv • nodejs • open-source | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
 | **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | Flask API for AI image generation with Google Gemini. Simple endpoints for apps and bots. | HTML • ai • api • flask | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest scraper with a clean web UI. Export pins, boards, and images. | Python • crawler • data • export | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihann.onrender.com) |
 | **[ScreenshotAPI](https://github.com/raihan-rifat007/ScreenshotAPI)** | Self-hosted screenshot and PDF API powered by Playwright. Capture full pages for bots and… | JavaScript • api • browser-automation • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/ScreenshotAPI) |
 | **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTube Music REST API in Deno and TypeScript. Search tracks, albums, and playlists with… | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
 | **[RealHuman](https://github.com/raihan-rifat007/RealHuman)** | Pippo — Telegram AI chatbot (Bot API). English and Banglish personality, memory, and self… | Python • ai • bot-api • chatbot | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/RealHuman) |
-| **[vidly](https://github.com/raihan-rifat007/vidly)** | Lightweight Node.js package to download videos from popular platforms. Simple API for dev… | JavaScript • downloader • library • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/vidly) |
-| **[badge-playground](https://github.com/raihan-rifat007/badge-playground)** | Sandbox for GitHub workflows, badges, and experiments. Safe place to test CI ideas. | badges • ci • experiments | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/badge-playground) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -67,7 +67,7 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub overview: 13 repositories, 1 stars, 1 followers" src="assets/stats-light.svg" width="49%">
+  <img alt="GitHub overview: 14 repositories, 1 stars, 1 followers" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [frnAlt/fca](https://github.com/frnAlt/fca) · `2026-10-06`
-- ⭐ Starred [BOTCAHX/TikTokPy](https://github.com/BOTCAHX/TikTokPy) · `2026-10-06`
-- 🔨 Pushed 4 commits to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
-- 🔨 Pushed 1 commit to [ImageGen](https://github.com/raihan-rifat007/ImageGen) · `2026-10-04`
-- 🔨 Pushed 1 commit to [badge-playground](https://github.com/raihan-rifat007/badge-playground) · `2026-10-04`
-- 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-04`
+- ⭐ Starred [tinevitr/url-shortener](https://github.com/tinevitr/url-shortener) · `2026-10-06`
+- ⭐ Starred [tinevitr/nvrcdn](https://github.com/tinevitr/nvrcdn) · `2026-10-06`
+- ⭐ Starred [tinevitr/Open-NvLabs](https://github.com/tinevitr/Open-NvLabs) · `2026-10-06`
+- ⭐ Starred [tinevitr/pindlfe](https://github.com/tinevitr/pindlfe) · `2026-10-06`
+- ⭐ Starred [tinevitr/tine-gts](https://github.com/tinevitr/tine-gts) · `2026-10-06`
+- ⭐ Starred [tinevitr/QRsAPI](https://github.com/tinevitr/QRsAPI) · `2026-10-06`
 
 <details>
 <summary><b>Journey</b></summary>
