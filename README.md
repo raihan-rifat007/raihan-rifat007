@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [tinevitr/nievegh](https://github.com/tinevitr/nievegh) · `2026-10-07`
+- ⭐ Starred [tinevitr/ttdl5-newui](https://github.com/tinevitr/ttdl5-newui) · `2026-10-07`
+- ⭐ Starred [tinevitr/codegetter](https://github.com/tinevitr/codegetter) · `2026-10-07`
 - ⭐ Starred [tinevitr/url-shortener](https://github.com/tinevitr/url-shortener) · `2026-10-06`
 - ⭐ Starred [tinevitr/nvrcdn](https://github.com/tinevitr/nvrcdn) · `2026-10-06`
 - ⭐ Starred [tinevitr/Open-NvLabs](https://github.com/tinevitr/Open-NvLabs) · `2026-10-06`
-- ⭐ Starred [tinevitr/pindlfe](https://github.com/tinevitr/pindlfe) · `2026-10-06`
-- ⭐ Starred [tinevitr/tine-gts](https://github.com/tinevitr/tine-gts) · `2026-10-06`
-- ⭐ Starred [tinevitr/QRsAPI](https://github.com/tinevitr/QRsAPI) · `2026-10-06`
 
 <details>
 <summary><b>Journey</b></summary>
