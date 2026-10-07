@@ -53,12 +53,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 | Project | Description | Stack | ★ | Links |
 | :-- | :-- | :-- | --: | :-- |
-| **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Free open-source IPTV web app. Browse global channels with a modern player UI. | TypeScript • iptv • nodejs • open-source | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
-| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | Flask API for AI image generation with Google Gemini. Simple endpoints for apps and bots. | HTML • ai • api • flask | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
-| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest scraper with a clean web UI. Export pins, boards, and images. | Python • crawler • data • export | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihann.onrender.com) |
-| **[ScreenshotAPI](https://github.com/raihan-rifat007/ScreenshotAPI)** | Self-hosted screenshot and PDF API powered by Playwright. Capture full pages for bots and… | JavaScript • api • browser-automation • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/ScreenshotAPI) |
-| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTube Music REST API in Deno and TypeScript. Search tracks, albums, and playlists with… | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
-| **[RealHuman](https://github.com/raihan-rifat007/RealHuman)** | Pippo — Telegram AI chatbot (Bot API). English and Banglish personality, memory, and self… | Python • ai • bot-api • chatbot | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/RealHuman) |
+| **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Streamverse — free open-source IPTV web player to browse and watch global live channels i… | TypeScript • iptv • open-source • streaming | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
+| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | GeminiAPI — Flask API for AI image generation powered by Google Gemini with simple reques… | HTML • ai • flask • gemini | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest Scraper — production web UI to search, scrape boards, export metadata, and down… | Python • export • fastapi • pinterest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestscraper-by-raihann.onrender.com) |
+| **[ScreenshotAPI](https://github.com/raihan-rifat007/ScreenshotAPI)** | ScreenshotAPI — self-hosted screenshot and PDF capture service using a headless browser p… | JavaScript • api • nodejs • pdf | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/ScreenshotAPI) |
+| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTubeMusicAPI — Deno TypeScript REST API for YouTube Music search and track metadata. | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
+| **[RealHuman](https://github.com/raihan-rifat007/RealHuman)** | Pippo — Telegram AI chatbot using Bot API with English and Banglish personality support. | Python • ai • bot-api • chatbot | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/RealHuman) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API) · `2026-10-07`
-- ⭐ Starred [SH0MIK/Anivault-Scraper](https://github.com/SH0MIK/Anivault-Scraper) · `2026-10-07`
-- ⭐ Starred [tinevitr/nievegh](https://github.com/tinevitr/nievegh) · `2026-10-07`
-- ⭐ Starred [tinevitr/ttdl5-newui](https://github.com/tinevitr/ttdl5-newui) · `2026-10-07`
-- ⭐ Starred [tinevitr/codegetter](https://github.com/tinevitr/codegetter) · `2026-10-07`
-- ⭐ Starred [tinevitr/url-shortener](https://github.com/tinevitr/url-shortener) · `2026-10-06`
+- ⭐ Starred [tas33n/File-Sharing-Bot](https://github.com/tas33n/File-Sharing-Bot) · `2026-10-07`
+- ⭐ Starred [tas33n/ads-remover-bot](https://github.com/tas33n/ads-remover-bot) · `2026-10-07`
+- ⭐ Starred [tas33n/fb-login-bot](https://github.com/tas33n/fb-login-bot) · `2026-10-07`
+- ⭐ Starred [lagadev/Bkash-Recipe-](https://github.com/lagadev/Bkash-Recipe-) · `2026-10-07`
+- ⭐ Starred [nafiz1000x/Fake-Bkash-Nagat-Screenshot-](https://github.com/nafiz1000x/Fake-Bkash-Nagat-Screenshot-) · `2026-10-07`
+- ⭐ Starred [temsor-admin/fauxpost](https://github.com/temsor-admin/fauxpost) · `2026-10-07`
 
 <details>
 <summary><b>Journey</b></summary>
