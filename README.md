@@ -67,7 +67,7 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub overview: 13 repositories, 1 stars, 1 followers" src="assets/stats-light.svg" width="49%">
+  <img alt="GitHub overview: 13 repositories, 1 stars, 2 followers" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-08`
+- ⭐ Starred [jetappstudio/seedance-video-generator](https://github.com/jetappstudio/seedance-video-generator) · `2026-10-08`
 - ⭐ Starred [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API) · `2026-10-08`
 - 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-08`
 - ⭐ Starred [tas33n/File-Sharing-Bot](https://github.com/tas33n/File-Sharing-Bot) · `2026-10-07`
 - ⭐ Starred [tas33n/ads-remover-bot](https://github.com/tas33n/ads-remover-bot) · `2026-10-07`
-- ⭐ Starred [tas33n/fb-login-bot](https://github.com/tas33n/fb-login-bot) · `2026-10-07`
-- ⭐ Starred [lagadev/Bkash-Recipe-](https://github.com/lagadev/Bkash-Recipe-) · `2026-10-07`
 
 <details>
 <summary><b>Journey</b></summary>
