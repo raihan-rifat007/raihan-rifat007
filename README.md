@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-08`
 - 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-08`
 - ⭐ Starred [jetappstudio/seedance-video-generator](https://github.com/jetappstudio/seedance-video-generator) · `2026-10-08`
 - ⭐ Starred [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API) · `2026-10-08`
 - 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-08`
 - ⭐ Starred [tas33n/File-Sharing-Bot](https://github.com/tas33n/File-Sharing-Bot) · `2026-10-07`
-- ⭐ Starred [tas33n/ads-remover-bot](https://github.com/tas33n/ads-remover-bot) · `2026-10-07`
 
 <details>
 <summary><b>Journey</b></summary>
