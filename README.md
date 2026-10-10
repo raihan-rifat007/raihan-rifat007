@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-08`
-- 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-08`
-- 🔨 Pushed 1 commit to [YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI) · `2026-10-08`
-- ⭐ Starred [jetappstudio/seedance-video-generator](https://github.com/jetappstudio/seedance-video-generator) · `2026-10-08`
-- ⭐ Starred [walterwhite-69/Anivexa-API](https://github.com/walterwhite-69/Anivexa-API) · `2026-10-08`
-- 🔨 Pushed 1 commit to [GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI) · `2026-10-08`
+- ⭐ Starred [Aisyah629/is-dev.me](https://github.com/Aisyah629/is-dev.me) · `2026-10-10`
+- ⭐ Starred [siputzx/api-siputzx](https://github.com/siputzx/api-siputzx) · `2026-10-10`
+- ⭐ Starred [siputzx/apisku](https://github.com/siputzx/apisku) · `2026-10-10`
+- ⭐ Starred [ShirokamiRyzen/Neko-Router](https://github.com/ShirokamiRyzen/Neko-Router) · `2026-10-10`
+- ⭐ Starred [tinevitr/Open-NvLabs](https://github.com/tinevitr/Open-NvLabs) · `2026-10-10`
+- ⭐ Starred [miguecode/messi-perfect-shots](https://github.com/miguecode/messi-perfect-shots) · `2026-10-10`
 
 <details>
 <summary><b>Journey</b></summary>
