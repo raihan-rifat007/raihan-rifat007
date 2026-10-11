@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [Sabin78910/weather-dashboard-web](https://github.com/Sabin78910/weather-dashboard-web) · `2026-10-11`
+- ⭐ Starred [finnytech/omniscope-web](https://github.com/finnytech/omniscope-web) · `2026-10-11`
+- ⭐ Starred [Weatherender-foundation/Weatherender](https://github.com/Weatherender-foundation/Weatherender) · `2026-10-11`
 - ⭐ Starred [Aisyah629/is-dev.me](https://github.com/Aisyah629/is-dev.me) · `2026-10-10`
 - ⭐ Starred [siputzx/api-siputzx](https://github.com/siputzx/api-siputzx) · `2026-10-10`
 - ⭐ Starred [siputzx/apisku](https://github.com/siputzx/apisku) · `2026-10-10`
-- ⭐ Starred [ShirokamiRyzen/Neko-Router](https://github.com/ShirokamiRyzen/Neko-Router) · `2026-10-10`
-- ⭐ Starred [tinevitr/Open-NvLabs](https://github.com/tinevitr/Open-NvLabs) · `2026-10-10`
-- ⭐ Starred [miguecode/messi-perfect-shots](https://github.com/miguecode/messi-perfect-shots) · `2026-10-10`
 
 <details>
 <summary><b>Journey</b></summary>
