@@ -55,10 +55,10 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 | :-- | :-- | :-- | --: | :-- |
 | **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Streamverse — free open-source IPTV web player to browse and watch global live channels i… | TypeScript • iptv • open-source • streaming | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
 | **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | GeminiAPI — Flask API for AI image generation powered by Google Gemini with simple reques… | HTML • ai • flask • gemini | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
+| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | MusifyBot — Telegram music bot for search, stream links, lyrics, and inline results. | JavaScript • bot • lyrics • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybott.onrender.com) |
 | **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTubeMusicAPI — Deno TypeScript REST API for YouTube Music search and track metadata. | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
 | **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest Scraper — production web UI to search, scrape boards, export metadata, and down… | Python • export • fastapi • pinterest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) |
 | **[RealHuman](https://github.com/raihan-rifat007/RealHuman)** | Pippo — Telegram AI chatbot using Bot API with English and Banglish personality support. | Python • ai • bot-api • chatbot | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/RealHuman) |
-| **[vidly](https://github.com/raihan-rifat007/vidly)** | vidly — lightweight Node package helpers for downloading videos from popular platforms. | JavaScript • downloader • nodejs • npm | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/vidly) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) · `2026-10-12`
+- 🔨 Pushed 2 commits to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
 - ⭐ Starred [Sabin78910/weather-dashboard-web](https://github.com/Sabin78910/weather-dashboard-web) · `2026-10-11`
 - ⭐ Starred [finnytech/omniscope-web](https://github.com/finnytech/omniscope-web) · `2026-10-11`
 - ⭐ Starred [Weatherender-foundation/Weatherender](https://github.com/Weatherender-foundation/Weatherender) · `2026-10-11`
 - ⭐ Starred [Aisyah629/is-dev.me](https://github.com/Aisyah629/is-dev.me) · `2026-10-10`
-- ⭐ Starred [siputzx/api-siputzx](https://github.com/siputzx/api-siputzx) · `2026-10-10`
-- ⭐ Starred [siputzx/apisku](https://github.com/siputzx/apisku) · `2026-10-10`
 
 <details>
 <summary><b>Journey</b></summary>
