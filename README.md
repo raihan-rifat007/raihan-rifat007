@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [lamuertee/Tatakai](https://github.com/lamuertee/Tatakai) · `2026-10-13`
+- ⭐ Starred [aryaniiil/kimi-reverse-api](https://github.com/aryaniiil/kimi-reverse-api) · `2026-10-13`
+- ⭐ Starred [aryaniiil/deepseek-reverse-api](https://github.com/aryaniiil/deepseek-reverse-api) · `2026-10-13`
 - 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
 - ⭐ Starred [finnytech/omniscope-web](https://github.com/finnytech/omniscope-web) · `2026-10-13`
 - 🔨 Pushed 1 commit to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-13`
-- 🔨 Pushed 2 commits to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
-- ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) · `2026-10-12`
-- 🔨 Pushed 2 commits to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
 
 <details>
 <summary><b>Journey</b></summary>
