@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- 🔨 Pushed 2 commits to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
 - ⭐ Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) · `2026-10-12`
 - 🔨 Pushed 2 commits to [MusifyBot](https://github.com/raihan-rifat007/MusifyBot) · `2026-10-12`
 - ⭐ Starred [Sabin78910/weather-dashboard-web](https://github.com/Sabin78910/weather-dashboard-web) · `2026-10-11`
 - ⭐ Starred [finnytech/omniscope-web](https://github.com/finnytech/omniscope-web) · `2026-10-11`
 - ⭐ Starred [Weatherender-foundation/Weatherender](https://github.com/Weatherender-foundation/Weatherender) · `2026-10-11`
-- ⭐ Starred [Aisyah629/is-dev.me](https://github.com/Aisyah629/is-dev.me) · `2026-10-10`
 
 <details>
 <summary><b>Journey</b></summary>
