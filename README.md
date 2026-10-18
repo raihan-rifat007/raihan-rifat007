@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [shadab3105-coder/VoxQuest](https://github.com/shadab3105-coder/VoxQuest) · `2026-10-18`
 - ⭐ Starred [Tansuo2021/gemini-3-pro-image-preview](https://github.com/Tansuo2021/gemini-3-pro-image-preview) · `2026-10-17`
 - ⭐ Starred [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) · `2026-10-17`
 - ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) · `2026-10-17`
 - ⭐ Starred [GenerousMan/DeepSeek-Chat-UI](https://github.com/GenerousMan/DeepSeek-Chat-UI) · `2026-10-15`
 - ⭐ Starred [Pahadi10/terabox-upload-tool](https://github.com/Pahadi10/terabox-upload-tool) · `2026-10-15`
-- ⭐ Starred [VinayakGhai/terabox-complete-api](https://github.com/VinayakGhai/terabox-complete-api) · `2026-10-15`
 
 <details>
 <summary><b>Journey</b></summary>
