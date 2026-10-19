@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [Charles-HL/hermes-webui-selene](https://github.com/Charles-HL/hermes-webui-selene) · `2026-10-19`
 - ⭐ Starred [rafahim/free-pdf-toolkit](https://github.com/rafahim/free-pdf-toolkit) · `2026-10-18`
 - ⭐ Starred [rafahim/BD-District-Info-API](https://github.com/rafahim/BD-District-Info-API) · `2026-10-18`
 - ⭐ Starred [rafahim/bangla-ocr](https://github.com/rafahim/bangla-ocr) · `2026-10-18`
 - ⭐ Starred [matheofernandes27-lang/Dark-gpt-v1-free](https://github.com/matheofernandes27-lang/Dark-gpt-v1-free) · `2026-10-18`
 - ⭐ Starred [shadab3105-coder/VoxQuest](https://github.com/shadab3105-coder/VoxQuest) · `2026-10-18`
-- ⭐ Starred [Tansuo2021/gemini-3-pro-image-preview](https://github.com/Tansuo2021/gemini-3-pro-image-preview) · `2026-10-17`
 
 <details>
 <summary><b>Journey</b></summary>
