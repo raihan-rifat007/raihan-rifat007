@@ -55,10 +55,10 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 | :-- | :-- | :-- | --: | :-- |
 | **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Streamverse — free open-source IPTV web player to browse and watch global live channels i… | TypeScript • iptv • open-source • streaming | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
 | **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | MusifyBot — Telegram music bot for search, stream links, lyrics, and inline results. | JavaScript • bot • lyrics • music | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybott.onrender.com) |
-| **[GeminiAPI](https://github.com/raihan-rifat007/GeminiAPI)** | GeminiAPI — Flask API for AI image generation powered by Google Gemini with simple reques… | HTML • ai • flask • gemini | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/GeminiAPI) |
 | **[PinterestDownloader](https://github.com/raihan-rifat007/PinterestDownloader)** | PinterestDownloader — bulk download Pinterest images and boards through a simple web inte… | HTML • downloader • images • pinterest | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/PinterestDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestdownloaderr.vercel.app) |
 | **[VideoDownloader](https://github.com/raihan-rifat007/VideoDownloader)** | VideoDownloader — self-hosted media downloader supporting a wide range of sites for video… | HTML • downloader • media • render | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/VideoDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://videodownloader0.onrender.com) |
 | **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTubeMusicAPI — Deno TypeScript REST API for YouTube Music search and track metadata. | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest Scraper — production web UI to search, scrape boards, export metadata, and down… | Python • export • fastapi • pinterest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -67,7 +67,7 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub overview: 11 repositories, 5 stars, 3 followers" src="assets/stats-light.svg" width="49%">
+  <img alt="GitHub overview: 10 repositories, 4 stars, 3 followers" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
