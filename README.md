@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [ericc-ch/t-tree-chat](https://github.com/ericc-ch/t-tree-chat) · `2026-10-20`
+- ⭐ Starred [ericc-ch/instagram-scraper](https://github.com/ericc-ch/instagram-scraper) · `2026-10-20`
+- ⭐ Starred [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) · `2026-10-20`
 - ⭐ Starred [Charles-HL/hermes-webui-selene](https://github.com/Charles-HL/hermes-webui-selene) · `2026-10-19`
 - ⭐ Starred [rafahim/free-pdf-toolkit](https://github.com/rafahim/free-pdf-toolkit) · `2026-10-18`
 - ⭐ Starred [rafahim/BD-District-Info-API](https://github.com/rafahim/BD-District-Info-API) · `2026-10-18`
-- ⭐ Starred [rafahim/bangla-ocr](https://github.com/rafahim/bangla-ocr) · `2026-10-18`
-- ⭐ Starred [matheofernandes27-lang/Dark-gpt-v1-free](https://github.com/matheofernandes27-lang/Dark-gpt-v1-free) · `2026-10-18`
-- ⭐ Starred [shadab3105-coder/VoxQuest](https://github.com/shadab3105-coder/VoxQuest) · `2026-10-18`
 
 <details>
 <summary><b>Journey</b></summary>
