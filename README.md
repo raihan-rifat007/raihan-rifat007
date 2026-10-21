@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) · `2026-10-21`
+- ⭐ Starred [ntthanh2603/gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) · `2026-10-21`
+- ⭐ Starred [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) · `2026-10-21`
+- ⭐ Starred [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) · `2026-10-21`
+- ⭐ Starred [markfulton/NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor) · `2026-10-21`
 - ⭐ Starred [ericc-ch/t-tree-chat](https://github.com/ericc-ch/t-tree-chat) · `2026-10-20`
-- ⭐ Starred [ericc-ch/instagram-scraper](https://github.com/ericc-ch/instagram-scraper) · `2026-10-20`
-- ⭐ Starred [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) · `2026-10-20`
-- ⭐ Starred [Charles-HL/hermes-webui-selene](https://github.com/Charles-HL/hermes-webui-selene) · `2026-10-19`
-- ⭐ Starred [rafahim/free-pdf-toolkit](https://github.com/rafahim/free-pdf-toolkit) · `2026-10-18`
-- ⭐ Starred [rafahim/BD-District-Info-API](https://github.com/rafahim/BD-District-Info-API) · `2026-10-18`
 
 <details>
 <summary><b>Journey</b></summary>
