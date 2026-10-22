@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [beilunyang/img-mom](https://github.com/beilunyang/img-mom) · `2026-10-22`
+- ⭐ Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) · `2026-10-22`
+- ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail) · `2026-10-22`
+- ⭐ Starred [yushangxiao/pplx2api](https://github.com/yushangxiao/pplx2api) · `2026-10-22`
+- ⭐ Starred [yushangxiao/gemini-balance](https://github.com/yushangxiao/gemini-balance) · `2026-10-22`
 - ⭐ Starred [zexadev/gemini-web2api-go](https://github.com/zexadev/gemini-web2api-go) · `2026-10-21`
-- ⭐ Starred [ntthanh2603/gemini-web-to-api](https://github.com/ntthanh2603/gemini-web-to-api) · `2026-10-21`
-- ⭐ Starred [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) · `2026-10-21`
-- ⭐ Starred [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) · `2026-10-21`
-- ⭐ Starred [markfulton/NanoBananaEditor](https://github.com/markfulton/NanoBananaEditor) · `2026-10-21`
-- ⭐ Starred [ericc-ch/t-tree-chat](https://github.com/ericc-ch/t-tree-chat) · `2026-10-20`
 
 <details>
 <summary><b>Journey</b></summary>
