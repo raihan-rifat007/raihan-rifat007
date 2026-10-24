@@ -67,7 +67,7 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="GitHub overview: 10 repositories, 4 stars, 3 followers" src="assets/stats-light.svg" width="49%">
+  <img alt="GitHub overview: 9 repositories, 4 stars, 3 followers" src="assets/stats-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [BunglonMewing/Zoya](https://github.com/BunglonMewing/Zoya) · `2026-10-24`
+- ⭐ Starred [coflyn/scribdl-py](https://github.com/coflyn/scribdl-py) · `2026-10-24`
 - ⭐ Starred [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) · `2026-10-23`
 - ⭐ Starred [beilunyang/img-mom](https://github.com/beilunyang/img-mom) · `2026-10-22`
 - ⭐ Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) · `2026-10-22`
 - ⭐ Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail) · `2026-10-22`
-- ⭐ Starred [yushangxiao/pplx2api](https://github.com/yushangxiao/pplx2api) · `2026-10-22`
-- ⭐ Starred [yushangxiao/gemini-balance](https://github.com/yushangxiao/gemini-balance) · `2026-10-22`
 
 <details>
 <summary><b>Journey</b></summary>
