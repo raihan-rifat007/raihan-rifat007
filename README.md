@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [Christus-Ten/christus-stream](https://github.com/Christus-Ten/christus-stream) · `2026-11-01`
+- ⭐ Starred [Christus-Ten/Shadow-edit](https://github.com/Christus-Ten/Shadow-edit) · `2026-11-01`
+- ⭐ Starred [rajatt04/Dopamine](https://github.com/rajatt04/Dopamine) · `2026-11-01`
 - ⭐ Starred [Autom8AI/Open-Higgsfield-AI](https://github.com/Autom8AI/Open-Higgsfield-AI) · `2026-10-31`
 - ⭐ Starred [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) · `2026-10-31`
 - ⭐ Starred [BunglonMewing/Zoya](https://github.com/BunglonMewing/Zoya) · `2026-10-24`
-- ⭐ Starred [coflyn/scribdl-py](https://github.com/coflyn/scribdl-py) · `2026-10-24`
-- ⭐ Starred [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) · `2026-10-23`
-- ⭐ Starred [beilunyang/img-mom](https://github.com/beilunyang/img-mom) · `2026-10-22`
 
 <details>
 <summary><b>Journey</b></summary>
