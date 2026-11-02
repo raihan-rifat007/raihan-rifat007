@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [Christus-Ten/christus-stream](https://github.com/Christus-Ten/christus-stream) · `2026-11-01`
-- ⭐ Starred [Christus-Ten/Shadow-edit](https://github.com/Christus-Ten/Shadow-edit) · `2026-11-01`
-- ⭐ Starred [rajatt04/Dopamine](https://github.com/rajatt04/Dopamine) · `2026-11-01`
-- ⭐ Starred [Autom8AI/Open-Higgsfield-AI](https://github.com/Autom8AI/Open-Higgsfield-AI) · `2026-10-31`
-- ⭐ Starred [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) · `2026-10-31`
-- ⭐ Starred [BunglonMewing/Zoya](https://github.com/BunglonMewing/Zoya) · `2026-10-24`
+- ⭐ Starred [DonArtkins/deepcheckai](https://github.com/DonArtkins/deepcheckai) · `2026-11-02`
+- ⭐ Starred [josskixg/jmail](https://github.com/josskixg/jmail) · `2026-11-02`
+- ⭐ Starred [josskixg/TempMail-UnofficialAPI](https://github.com/josskixg/TempMail-UnofficialAPI) · `2026-11-02`
+- ⭐ Starred [tempmail-lol/api-python](https://github.com/tempmail-lol/api-python) · `2026-11-02`
+- ⭐ Starred [zukixa/temp-gmail](https://github.com/zukixa/temp-gmail) · `2026-11-02`
+- ⭐ Starred [Whomrx666/XTempmail](https://github.com/Whomrx666/XTempmail) · `2026-11-02`
 
 <details>
 <summary><b>Journey</b></summary>
