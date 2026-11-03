@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [DonArtkins/deepcheckai](https://github.com/DonArtkins/deepcheckai) · `2026-11-02`
-- ⭐ Starred [josskixg/jmail](https://github.com/josskixg/jmail) · `2026-11-02`
-- ⭐ Starred [josskixg/TempMail-UnofficialAPI](https://github.com/josskixg/TempMail-UnofficialAPI) · `2026-11-02`
-- ⭐ Starred [tempmail-lol/api-python](https://github.com/tempmail-lol/api-python) · `2026-11-02`
-- ⭐ Starred [zukixa/temp-gmail](https://github.com/zukixa/temp-gmail) · `2026-11-02`
-- ⭐ Starred [Whomrx666/XTempmail](https://github.com/Whomrx666/XTempmail) · `2026-11-02`
+- ⭐ Starred [Amal-kphilip/Geekify-App](https://github.com/Amal-kphilip/Geekify-App) · `2026-11-03`
+- ⭐ Starred [Swotboysandy/groovix](https://github.com/Swotboysandy/groovix) · `2026-11-03`
+- ⭐ Starred [Vishnuuu-s1/SoundFean-](https://github.com/Vishnuuu-s1/SoundFean-) · `2026-11-03`
+- ⭐ Starred [zirharayane/RMusic](https://github.com/zirharayane/RMusic) · `2026-11-03`
+- ⭐ Starred [rishirishith18/Mumixic](https://github.com/rishirishith18/Mumixic) · `2026-11-03`
+- ⭐ Starred [mudassir131-dev/nocturne](https://github.com/mudassir131-dev/nocturne) · `2026-11-03`
 
 <details>
 <summary><b>Journey</b></summary>
