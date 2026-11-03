@@ -53,12 +53,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 | Project | Description | Stack | ★ | Links |
 | :-- | :-- | :-- | --: | :-- |
-| **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | Streamverse — free open-source IPTV web player to browse and watch global live channels i… | TypeScript • iptv • open-source • streaming | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
-| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | MusifyBot — Telegram music bot for search, stream links, lyrics, and inline results. | JavaScript • bot • lyrics • music | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybott.onrender.com) |
-| **[PinterestDownloader](https://github.com/raihan-rifat007/PinterestDownloader)** | PinterestDownloader — bulk download Pinterest images and boards through a simple web inte… | HTML • downloader • images • pinterest | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/PinterestDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestdownloaderr.vercel.app) |
-| **[VideoDownloader](https://github.com/raihan-rifat007/VideoDownloader)** | VideoDownloader — self-hosted media downloader supporting a wide range of sites for video… | HTML • downloader • media • render | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/VideoDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://videodownloader0.onrender.com) |
-| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTubeMusicAPI — Deno TypeScript REST API for YouTube Music search and track metadata. | HTML • api • deno • music | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
-| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest Scraper — production web UI to search, scrape boards, export metadata, and down… | Python • export • fastapi • pinterest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) |
+| **[Streamverse](https://github.com/raihan-rifat007/Streamverse)** | IPTV streaming platform with channel lists, player UI, and playlist updates. | TypeScript • iptv • nodejs • react | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Streamverse) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://streamverse7.vercel.app/) |
+| **[MusifyBot](https://github.com/raihan-rifat007/MusifyBot)** | Telegram music bot for search, play, and download workflows. | JavaScript • bot • music • nodejs | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/MusifyBot) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://musifybott.onrender.com) |
+| **[PinterestDownloader](https://github.com/raihan-rifat007/PinterestDownloader)** | Pinterest media downloader API focused on reliable image and video fetch. | HTML • api • downloader • pinterest | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/PinterestDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://pinterestdownloaderr.vercel.app) |
+| **[VideoDownloader](https://github.com/raihan-rifat007/VideoDownloader)** | General video downloader API across common platforms with JSON responses. | HTML • api • downloader • nodejs | 1 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/VideoDownloader) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://videodownloader0.onrender.com) |
+| **[YouTubeMusicAPI](https://github.com/raihan-rifat007/YouTubeMusicAPI)** | YouTube Music search and track metadata API. | HTML • api • music • nodejs | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/YouTubeMusicAPI) [![Live](https://img.shields.io/badge/Live-0d47a1?style=flat-square&logo=vercel&logoColor=white)](https://youtubeapi-by.raihan07.deno.net) |
+| **[Pinterest-Scraper](https://github.com/raihan-rifat007/Pinterest-Scraper)** | Pinterest scraping service for pins, boards, and image extraction. | Python • api • nodejs • pinterest | 0 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-rifat007/Pinterest-Scraper) |
 
 <p align="right"><a href="https://github.com/raihan-rifat007?tab=repositories"><b>All repositories →</b></a></p>
 
@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [Amal-kphilip/Geekify-App](https://github.com/Amal-kphilip/Geekify-App) · `2026-11-03`
-- ⭐ Starred [Swotboysandy/groovix](https://github.com/Swotboysandy/groovix) · `2026-11-03`
-- ⭐ Starred [Vishnuuu-s1/SoundFean-](https://github.com/Vishnuuu-s1/SoundFean-) · `2026-11-03`
-- ⭐ Starred [zirharayane/RMusic](https://github.com/zirharayane/RMusic) · `2026-11-03`
-- ⭐ Starred [rishirishith18/Mumixic](https://github.com/rishirishith18/Mumixic) · `2026-11-03`
-- ⭐ Starred [mudassir131-dev/nocturne](https://github.com/mudassir131-dev/nocturne) · `2026-11-03`
+- ⭐ Starred [robherley/snips.sh](https://github.com/robherley/snips.sh) · `2026-11-03`
+- ⭐ Starred [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) · `2026-11-03`
+- ⭐ Starred [Yureien/YABin](https://github.com/Yureien/YABin) · `2026-11-03`
+- ⭐ Starred [Zluqe/Zluqet](https://github.com/Zluqe/Zluqet) · `2026-11-03`
+- ⭐ Starred [ryu-ryuk/yoru-pastebin](https://github.com/ryu-ryuk/yoru-pastebin) · `2026-11-03`
+- ⭐ Starred [kstypik/PasteMate](https://github.com/kstypik/PasteMate) · `2026-11-03`
 
 <details>
 <summary><b>Journey</b></summary>
