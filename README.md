@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [robherley/snips.sh](https://github.com/robherley/snips.sh) · `2026-11-03`
-- ⭐ Starred [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) · `2026-11-03`
-- ⭐ Starred [Yureien/YABin](https://github.com/Yureien/YABin) · `2026-11-03`
-- ⭐ Starred [Zluqe/Zluqet](https://github.com/Zluqe/Zluqet) · `2026-11-03`
-- ⭐ Starred [ryu-ryuk/yoru-pastebin](https://github.com/ryu-ryuk/yoru-pastebin) · `2026-11-03`
-- ⭐ Starred [kstypik/PasteMate](https://github.com/kstypik/PasteMate) · `2026-11-03`
+- ⭐ Starred [Xinyue0228/gemini-imgbatch](https://github.com/Xinyue0228/gemini-imgbatch) · `2026-11-04`
+- ⭐ Starred [GitZhangChi/chatgpt-session-vault](https://github.com/GitZhangChi/chatgpt-session-vault) · `2026-11-04`
+- ⭐ Starred [DecodedXR/drive-upload-form](https://github.com/DecodedXR/drive-upload-form) · `2026-11-04`
+- ⭐ Starred [vaibhavshiroorkar/notemax](https://github.com/vaibhavshiroorkar/notemax) · `2026-11-04`
+- ⭐ Starred [devld/go-drive](https://github.com/devld/go-drive) · `2026-11-04`
+- ⭐ Starred [Awuqing/BackupX](https://github.com/Awuqing/BackupX) · `2026-11-04`
 
 <details>
 <summary><b>Journey</b></summary>
