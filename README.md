@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [d4vid87/stormdesk](https://github.com/d4vid87/stormdesk) · `2026-11-04`
+- ⭐ Starred [pekkiriscim/weather](https://github.com/pekkiriscim/weather) · `2026-11-04`
+- ⭐ Starred [somenath203/Trimrr](https://github.com/somenath203/Trimrr) · `2026-11-04`
+- ⭐ Starred [trckable/trckable](https://github.com/trckable/trckable) · `2026-11-04`
 - ⭐ Starred [Ethos6/free-drive-hub](https://github.com/Ethos6/free-drive-hub) · `2026-11-04`
 - ⭐ Starred [smartworldarafath/Local-Drive-Official](https://github.com/smartworldarafath/Local-Drive-Official) · `2026-11-04`
-- ⭐ Starred [art-tech-fuzion/teleDrive--nodejsEdition](https://github.com/art-tech-fuzion/teleDrive--nodejsEdition) · `2026-11-04`
-- ⭐ Starred [ElkampaPro/cloud-ultra-downloader](https://github.com/ElkampaPro/cloud-ultra-downloader) · `2026-11-04`
-- ⭐ Starred [herliansyah/teledrive](https://github.com/herliansyah/teledrive) · `2026-11-04`
-- ⭐ Starred [TNCP06/Cloud-Drive-Telegram](https://github.com/TNCP06/Cloud-Drive-Telegram) · `2026-11-04`
 
 <details>
 <summary><b>Journey</b></summary>
