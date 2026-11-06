@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [d4vid87/stormdesk](https://github.com/d4vid87/stormdesk) · `2026-11-04`
-- ⭐ Starred [pekkiriscim/weather](https://github.com/pekkiriscim/weather) · `2026-11-04`
-- ⭐ Starred [somenath203/Trimrr](https://github.com/somenath203/Trimrr) · `2026-11-04`
-- ⭐ Starred [trckable/trckable](https://github.com/trckable/trckable) · `2026-11-04`
-- ⭐ Starred [Ethos6/free-drive-hub](https://github.com/Ethos6/free-drive-hub) · `2026-11-04`
-- ⭐ Starred [smartworldarafath/Local-Drive-Official](https://github.com/smartworldarafath/Local-Drive-Official) · `2026-11-04`
+- ⭐ Starred [hlibsuslov/round-qr-studio](https://github.com/hlibsuslov/round-qr-studio) · `2026-11-05`
+- ⭐ Starred [power0matin/qr-code-generator](https://github.com/power0matin/qr-code-generator) · `2026-11-05`
+- ⭐ Starred [Floran-grmxx/QR-Studio](https://github.com/Floran-grmxx/QR-Studio) · `2026-11-05`
+- ⭐ Starred [universal-simulation-ltd/Universal_QR](https://github.com/universal-simulation-ltd/Universal_QR) · `2026-11-05`
+- ⭐ Starred [pibulus/qrbuddy](https://github.com/pibulus/qrbuddy) · `2026-11-05`
+- ⭐ Starred [keenanlk/stayput](https://github.com/keenanlk/stayput) · `2026-11-05`
 
 <details>
 <summary><b>Journey</b></summary>
