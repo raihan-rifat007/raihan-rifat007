@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [Alirull18/Aideo-Music-Player](https://github.com/Alirull18/Aideo-Music-Player) · `2026-11-07`
+- ⭐ Starred [d0x-dev/Airbeats-Desktop](https://github.com/d0x-dev/Airbeats-Desktop) · `2026-11-07`
+- ⭐ Starred [JonniTech/Perplexity-Clone](https://github.com/JonniTech/Perplexity-Clone) · `2026-11-07`
+- ⭐ Starred [PierrunoYT/perplexity-webui](https://github.com/PierrunoYT/perplexity-webui) · `2026-11-07`
+- ⭐ Starred [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) · `2026-11-07`
 - ⭐ Starred [ShaikMagdum/yt2gofile](https://github.com/ShaikMagdum/yt2gofile) · `2026-11-07`
-- ⭐ Starred [itsvin-debug/AllToolsKuro](https://github.com/itsvin-debug/AllToolsKuro) · `2026-11-07`
-- ⭐ Starred [hlibsuslov/round-qr-studio](https://github.com/hlibsuslov/round-qr-studio) · `2026-11-05`
-- ⭐ Starred [power0matin/qr-code-generator](https://github.com/power0matin/qr-code-generator) · `2026-11-05`
-- ⭐ Starred [Floran-grmxx/QR-Studio](https://github.com/Floran-grmxx/QR-Studio) · `2026-11-05`
-- ⭐ Starred [universal-simulation-ltd/Universal_QR](https://github.com/universal-simulation-ltd/Universal_QR) · `2026-11-05`
 
 <details>
 <summary><b>Journey</b></summary>
