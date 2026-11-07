@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [ShaikMagdum/yt2gofile](https://github.com/ShaikMagdum/yt2gofile) · `2026-11-07`
+- ⭐ Starred [itsvin-debug/AllToolsKuro](https://github.com/itsvin-debug/AllToolsKuro) · `2026-11-07`
 - ⭐ Starred [hlibsuslov/round-qr-studio](https://github.com/hlibsuslov/round-qr-studio) · `2026-11-05`
 - ⭐ Starred [power0matin/qr-code-generator](https://github.com/power0matin/qr-code-generator) · `2026-11-05`
 - ⭐ Starred [Floran-grmxx/QR-Studio](https://github.com/Floran-grmxx/QR-Studio) · `2026-11-05`
 - ⭐ Starred [universal-simulation-ltd/Universal_QR](https://github.com/universal-simulation-ltd/Universal_QR) · `2026-11-05`
-- ⭐ Starred [pibulus/qrbuddy](https://github.com/pibulus/qrbuddy) · `2026-11-05`
-- ⭐ Starred [keenanlk/stayput](https://github.com/keenanlk/stayput) · `2026-11-05`
 
 <details>
 <summary><b>Journey</b></summary>
