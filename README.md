@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [Alirull18/Aideo-Music-Player](https://github.com/Alirull18/Aideo-Music-Player) · `2026-11-07`
-- ⭐ Starred [d0x-dev/Airbeats-Desktop](https://github.com/d0x-dev/Airbeats-Desktop) · `2026-11-07`
-- ⭐ Starred [JonniTech/Perplexity-Clone](https://github.com/JonniTech/Perplexity-Clone) · `2026-11-07`
-- ⭐ Starred [PierrunoYT/perplexity-webui](https://github.com/PierrunoYT/perplexity-webui) · `2026-11-07`
-- ⭐ Starred [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) · `2026-11-07`
-- ⭐ Starred [ShaikMagdum/yt2gofile](https://github.com/ShaikMagdum/yt2gofile) · `2026-11-07`
+- ⭐ Starred [idcesares/my-ip](https://github.com/idcesares/my-ip) · `2026-11-08`
+- ⭐ Starred [aalaeDev/snapurl](https://github.com/aalaeDev/snapurl) · `2026-11-08`
+- ⭐ Starred [IPGeolocation/cli](https://github.com/IPGeolocation/cli) · `2026-11-08`
+- ⭐ Starred [buildplan/ip-service](https://github.com/buildplan/ip-service) · `2026-11-08`
+- ⭐ Starred [IPDataInfo/ipdata-dotnet](https://github.com/IPDataInfo/ipdata-dotnet) · `2026-11-08`
+- ⭐ Starred [geminishkv/geoip-tool](https://github.com/geminishkv/geoip-tool) · `2026-11-08`
 
 <details>
 <summary><b>Journey</b></summary>
