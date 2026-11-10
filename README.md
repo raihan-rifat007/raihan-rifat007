@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [Lemelson/vlc-redesign-macos](https://github.com/Lemelson/vlc-redesign-macos) · `2026-11-10`
+- ⭐ Starred [karem505/vlc-neo](https://github.com/karem505/vlc-neo) · `2026-11-10`
+- ⭐ Starred [KuchiSofts/vlc-redesign](https://github.com/KuchiSofts/vlc-redesign) · `2026-11-10`
 - ⭐ Starred [tas33n/suno-downloader](https://github.com/tas33n/suno-downloader) · `2026-11-09`
 - ⭐ Starred [idcesares/my-ip](https://github.com/idcesares/my-ip) · `2026-11-08`
 - ⭐ Starred [aalaeDev/snapurl](https://github.com/aalaeDev/snapurl) · `2026-11-08`
-- ⭐ Starred [IPGeolocation/cli](https://github.com/IPGeolocation/cli) · `2026-11-08`
-- ⭐ Starred [buildplan/ip-service](https://github.com/buildplan/ip-service) · `2026-11-08`
-- ⭐ Starred [IPDataInfo/ipdata-dotnet](https://github.com/IPDataInfo/ipdata-dotnet) · `2026-11-08`
 
 <details>
 <summary><b>Journey</b></summary>
