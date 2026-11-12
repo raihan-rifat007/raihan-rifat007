@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [EchterAlsFake/ClashRoyaleAPI](https://github.com/EchterAlsFake/ClashRoyaleAPI) · `2026-11-12`
 - ⭐ Starred [adelpro/quran-search-engine](https://github.com/adelpro/quran-search-engine) · `2026-11-11`
 - ⭐ Starred [kodepandai/colorful-quran](https://github.com/kodepandai/colorful-quran) · `2026-11-11`
 - ⭐ Starred [abdessamadbettal/Falah](https://github.com/abdessamadbettal/Falah) · `2026-11-11`
 - ⭐ Starred [hadianr/nawaetu](https://github.com/hadianr/nawaetu) · `2026-11-11`
 - ⭐ Starred [abdelrahman-samy-dev/taratil-quran](https://github.com/abdelrahman-samy-dev/taratil-quran) · `2026-11-11`
-- ⭐ Starred [omars-lab/hifth](https://github.com/omars-lab/hifth) · `2026-11-11`
 
 <details>
 <summary><b>Journey</b></summary>
