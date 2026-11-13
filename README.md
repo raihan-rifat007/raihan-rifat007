@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [EchterAlsFake/ClashRoyaleAPI](https://github.com/EchterAlsFake/ClashRoyaleAPI) · `2026-11-12`
-- ⭐ Starred [adelpro/quran-search-engine](https://github.com/adelpro/quran-search-engine) · `2026-11-11`
-- ⭐ Starred [kodepandai/colorful-quran](https://github.com/kodepandai/colorful-quran) · `2026-11-11`
-- ⭐ Starred [abdessamadbettal/Falah](https://github.com/abdessamadbettal/Falah) · `2026-11-11`
-- ⭐ Starred [hadianr/nawaetu](https://github.com/hadianr/nawaetu) · `2026-11-11`
-- ⭐ Starred [abdelrahman-samy-dev/taratil-quran](https://github.com/abdelrahman-samy-dev/taratil-quran) · `2026-11-11`
+- ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-13`
+- ⭐ Starred [OpenSelena/openomni](https://github.com/OpenSelena/openomni) · `2026-11-13`
+- ⭐ Starred [OpenSelena/omniget](https://github.com/OpenSelena/omniget) · `2026-11-13`
+- ⭐ Starred [tamnd/ytmusic-cli](https://github.com/tamnd/ytmusic-cli) · `2026-11-13`
+- ⭐ Starred [LoLyeah/suravidl](https://github.com/LoLyeah/suravidl) · `2026-11-13`
+- ⭐ Starred [RafalPolawski/YT-Music-Downloader](https://github.com/RafalPolawski/YT-Music-Downloader) · `2026-11-13`
 
 <details>
 <summary><b>Journey</b></summary>
