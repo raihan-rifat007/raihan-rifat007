@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [artamrj/magpie-fi](https://github.com/artamrj/magpie-fi) · `2026-11-14`
+- ⭐ Starred [cstaelen/shazarr](https://github.com/cstaelen/shazarr) · `2026-11-14`
 - ⭐ Starred [inboxpraveen/Audio-Fingerprint](https://github.com/inboxpraveen/Audio-Fingerprint) · `2026-11-13`
 - ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-13`
 - ⭐ Starred [OpenSelena/openomni](https://github.com/OpenSelena/openomni) · `2026-11-13`
 - ⭐ Starred [OpenSelena/libreget](https://github.com/OpenSelena/libreget) · `2026-11-13`
-- ⭐ Starred [tamnd/ytmusic-cli](https://github.com/tamnd/ytmusic-cli) · `2026-11-13`
-- ⭐ Starred [LoLyeah/suravidl](https://github.com/LoLyeah/suravidl) · `2026-11-13`
 
 <details>
 <summary><b>Journey</b></summary>
