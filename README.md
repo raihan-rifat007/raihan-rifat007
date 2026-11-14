@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [artamrj/magpie-fi](https://github.com/artamrj/magpie-fi) · `2026-11-14`
-- ⭐ Starred [cstaelen/shazarr](https://github.com/cstaelen/shazarr) · `2026-11-14`
-- ⭐ Starred [inboxpraveen/Audio-Fingerprint](https://github.com/inboxpraveen/Audio-Fingerprint) · `2026-11-13`
-- ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-13`
-- ⭐ Starred [OpenSelena/openomni](https://github.com/OpenSelena/openomni) · `2026-11-13`
-- ⭐ Starred [OpenSelena/libreget](https://github.com/OpenSelena/libreget) · `2026-11-13`
+- ⭐ Starred [dor2500/pulse-speed](https://github.com/dor2500/pulse-speed) · `2026-11-14`
+- ⭐ Starred [Mammad-Ali/nova](https://github.com/Mammad-Ali/nova) · `2026-11-14`
+- ⭐ Starred [juw12/lelet](https://github.com/juw12/lelet) · `2026-11-14`
+- ⭐ Starred [sonararadhya/NetChronaix](https://github.com/sonararadhya/NetChronaix) · `2026-11-14`
+- ⭐ Starred [zR-JB/graphite-meter](https://github.com/zR-JB/graphite-meter) · `2026-11-14`
+- ⭐ Starred [fianbiasa/rayxo](https://github.com/fianbiasa/rayxo) · `2026-11-14`
 
 <details>
 <summary><b>Journey</b></summary>
