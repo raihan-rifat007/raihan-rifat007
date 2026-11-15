@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [SimonPerryman/rust-download-manager](https://github.com/SimonPerryman/rust-download-manager) · `2026-11-15`
+- ⭐ Starred [zekainstabot/zeka-bot](https://github.com/zekainstabot/zeka-bot) · `2026-11-15`
+- ⭐ Starred [mohamed-ibrahim47/downloader](https://github.com/mohamed-ibrahim47/downloader) · `2026-11-15`
 - ⭐ Starred [imgx-studio/gpt-image-2-webui](https://github.com/imgx-studio/gpt-image-2-webui) · `2026-11-15`
 - ⭐ Starred [dor2500/pulse-speed](https://github.com/dor2500/pulse-speed) · `2026-11-14`
 - ⭐ Starred [Mammad-Ali/nova](https://github.com/Mammad-Ali/nova) · `2026-11-14`
-- ⭐ Starred [juw12/lelet](https://github.com/juw12/lelet) · `2026-11-14`
-- ⭐ Starred [sonararadhya/NetChronaix](https://github.com/sonararadhya/NetChronaix) · `2026-11-14`
-- ⭐ Starred [zR-JB/graphite-meter](https://github.com/zR-JB/graphite-meter) · `2026-11-14`
 
 <details>
 <summary><b>Journey</b></summary>
