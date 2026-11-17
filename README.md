@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [akash098p/OpenDocs-Studio](https://github.com/akash098p/OpenDocs-Studio) · `2026-11-17`
+- ⭐ Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) · `2026-11-17`
+- ⭐ Starred [shanmukhasaireddy13/Go-Live](https://github.com/shanmukhasaireddy13/Go-Live) · `2026-11-17`
+- ⭐ Starred [is-cool-me/register](https://github.com/is-cool-me/register) · `2026-11-17`
+- ⭐ Starred [snehangshu2002/magpie](https://github.com/snehangshu2002/magpie) · `2026-11-17`
 - ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-16`
-- ⭐ Starred [kazamaofficial-git/gopay-api](https://github.com/kazamaofficial-git/gopay-api) · `2026-11-16`
-- ⭐ Starred [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) · `2026-11-16`
-- ⭐ Starred [snehangshu2002/magpie](https://github.com/snehangshu2002/magpie) · `2026-11-16`
-- ⭐ Starred [RamazanBerk20/mini-downloader](https://github.com/RamazanBerk20/mini-downloader) · `2026-11-16`
-- ⭐ Starred [jschm42/lumigen](https://github.com/jschm42/lumigen) · `2026-11-16`
 
 <details>
 <summary><b>Journey</b></summary>
