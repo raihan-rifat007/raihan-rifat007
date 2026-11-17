@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-16`
 - ⭐ Starred [kazamaofficial-git/gopay-api](https://github.com/kazamaofficial-git/gopay-api) · `2026-11-16`
 - ⭐ Starred [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) · `2026-11-16`
 - ⭐ Starred [snehangshu2002/magpie](https://github.com/snehangshu2002/magpie) · `2026-11-16`
 - ⭐ Starred [RamazanBerk20/mini-downloader](https://github.com/RamazanBerk20/mini-downloader) · `2026-11-16`
 - ⭐ Starred [jschm42/lumigen](https://github.com/jschm42/lumigen) · `2026-11-16`
-- ⭐ Starred [unrulpkk/safillu-aigc](https://github.com/unrulpkk/safillu-aigc) · `2026-11-16`
 
 <details>
 <summary><b>Journey</b></summary>
