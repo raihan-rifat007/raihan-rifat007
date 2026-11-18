@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
-- ⭐ Starred [akash098p/OpenDocs-Studio](https://github.com/akash098p/OpenDocs-Studio) · `2026-11-17`
-- ⭐ Starred [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) · `2026-11-17`
-- ⭐ Starred [shanmukhasaireddy13/Go-Live](https://github.com/shanmukhasaireddy13/Go-Live) · `2026-11-17`
-- ⭐ Starred [is-cool-me/register](https://github.com/is-cool-me/register) · `2026-11-17`
-- ⭐ Starred [snehangshu2002/magpie](https://github.com/snehangshu2002/magpie) · `2026-11-17`
-- ⭐ Starred [iyinchao/liquid-glass-studio](https://github.com/iyinchao/liquid-glass-studio) · `2026-11-16`
+- ⭐ Starred [DhruvilChauahan0210/scrollfx](https://github.com/DhruvilChauahan0210/scrollfx) · `2026-11-18`
+- ⭐ Starred [DhruvilChauahan0210/ink-scroll](https://github.com/DhruvilChauahan0210/ink-scroll) · `2026-11-18`
+- ⭐ Starred [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) · `2026-11-18`
+- ⭐ Starred [tkabalin/WebGL-Fluid-Background](https://github.com/tkabalin/WebGL-Fluid-Background) · `2026-11-18`
+- ⭐ Starred [manish-850/gentlerain.ai](https://github.com/manish-850/gentlerain.ai) · `2026-11-18`
+- ⭐ Starred [eliseuangelos/day-night-experience](https://github.com/eliseuangelos/day-night-experience) · `2026-11-18`
 
 <details>
 <summary><b>Journey</b></summary>
