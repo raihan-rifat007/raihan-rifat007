@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [kinopeer/kinopeer](https://github.com/kinopeer/kinopeer) · `2026-11-19`
+- ⭐ Starred [DataHearth/streamline](https://github.com/DataHearth/streamline) · `2026-11-19`
+- ⭐ Starred [Ghost-9/free-tv](https://github.com/Ghost-9/free-tv) · `2026-11-19`
+- ⭐ Starred [Shahrukhalid/nexonic-iptv](https://github.com/Shahrukhalid/nexonic-iptv) · `2026-11-19`
+- ⭐ Starred [Romaxa55/world_ip_tv](https://github.com/Romaxa55/world_ip_tv) · `2026-11-19`
 - ⭐ Starred [DhruvilChauahan0210/scrollfx](https://github.com/DhruvilChauahan0210/scrollfx) · `2026-11-18`
-- ⭐ Starred [DhruvilChauahan0210/ink-scroll](https://github.com/DhruvilChauahan0210/ink-scroll) · `2026-11-18`
-- ⭐ Starred [lklima/rive-animated-app](https://github.com/lklima/rive-animated-app) · `2026-11-18`
-- ⭐ Starred [tkabalin/WebGL-Fluid-Background](https://github.com/tkabalin/WebGL-Fluid-Background) · `2026-11-18`
-- ⭐ Starred [manish-850/gentlerain.ai](https://github.com/manish-850/gentlerain.ai) · `2026-11-18`
-- ⭐ Starred [eliseuangelos/day-night-experience](https://github.com/eliseuangelos/day-night-experience) · `2026-11-18`
 
 <details>
 <summary><b>Journey</b></summary>
