@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [KlockTX/KlockUI](https://github.com/KlockTX/KlockUI) · `2026-11-20`
+- ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui) · `2026-11-20`
 - ⭐ Starred [kinopeer/kinopeer](https://github.com/kinopeer/kinopeer) · `2026-11-19`
 - ⭐ Starred [DataHearth/streamline](https://github.com/DataHearth/streamline) · `2026-11-19`
 - ⭐ Starred [Ghost-9/free-tv](https://github.com/Ghost-9/free-tv) · `2026-11-19`
 - ⭐ Starred [nexonic-technologies/nexonic-iptv](https://github.com/nexonic-technologies/nexonic-iptv) · `2026-11-19`
-- ⭐ Starred [Romaxa55/world_ip_tv](https://github.com/Romaxa55/world_ip_tv) · `2026-11-19`
-- ⭐ Starred [DhruvilChauahan0210/scrollfx](https://github.com/DhruvilChauahan0210/scrollfx) · `2026-11-18`
 
 <details>
 <summary><b>Journey</b></summary>
