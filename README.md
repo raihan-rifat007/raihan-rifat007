@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [youshen-lim/gemini-nano-banana-CLIP-Interrogator](https://github.com/youshen-lim/gemini-nano-banana-CLIP-Interrogator) · `2026-11-21`
+- ⭐ Starred [Cry0x404/cryox-gemini-drive](https://github.com/Cry0x404/cryox-gemini-drive) · `2026-11-21`
+- ⭐ Starred [Arnost55/gemini-webapi-mcp](https://github.com/Arnost55/gemini-webapi-mcp) · `2026-11-21`
 - ⭐ Starred [KlockTX/KlockUI](https://github.com/KlockTX/KlockUI) · `2026-11-20`
 - ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui) · `2026-11-20`
 - ⭐ Starred [kinopeer/kinopeer](https://github.com/kinopeer/kinopeer) · `2026-11-19`
-- ⭐ Starred [DataHearth/streamline](https://github.com/DataHearth/streamline) · `2026-11-19`
-- ⭐ Starred [Ghost-9/free-tv](https://github.com/Ghost-9/free-tv) · `2026-11-19`
-- ⭐ Starred [nexonic-technologies/nexonic-iptv](https://github.com/nexonic-technologies/nexonic-iptv) · `2026-11-19`
 
 <details>
 <summary><b>Journey</b></summary>
