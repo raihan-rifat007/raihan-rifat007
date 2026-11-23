@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [ahamlabs/aioredgif](https://github.com/ahamlabs/aioredgif) · `2026-11-23`
+- ⭐ Starred [WoodpeckerAgora/google-gemini-pro-api-free-requests](https://github.com/WoodpeckerAgora/google-gemini-pro-api-free-requests) · `2026-11-23`
 - ⭐ Starred [fsferdows/Jarvis](https://github.com/fsferdows/Jarvis) · `2026-11-22`
 - ⭐ Starred [fsferdows/NetMirror-Plus](https://github.com/fsferdows/NetMirror-Plus) · `2026-11-22`
 - ⭐ Starred [fsferdows/safollow-smm-panel](https://github.com/fsferdows/safollow-smm-panel) · `2026-11-22`
 - ⭐ Starred [youshen-lim/gemini-nano-banana-CLIP-Interrogator](https://github.com/youshen-lim/gemini-nano-banana-CLIP-Interrogator) · `2026-11-21`
-- ⭐ Starred [Cry0x404/cryox-gemini-drive](https://github.com/Cry0x404/cryox-gemini-drive) · `2026-11-21`
-- ⭐ Starred [Arnost55/gemini-webapi-mcp](https://github.com/Arnost55/gemini-webapi-mcp) · `2026-11-21`
 
 <details>
 <summary><b>Journey</b></summary>
