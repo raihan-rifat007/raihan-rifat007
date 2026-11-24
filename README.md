@@ -91,12 +91,12 @@ I design and build full-stack applications with a growing focus on AI. I care ab
 
 ## Recent activity
 
+- ⭐ Starred [NihilDigit/piko](https://github.com/NihilDigit/piko) · `2026-11-24`
+- ⭐ Starred [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) · `2026-11-24`
+- ⭐ Starred [suitenumerique/drive](https://github.com/suitenumerique/drive) · `2026-11-24`
 - ⭐ Starred [ahamlabs/aioredgif](https://github.com/ahamlabs/aioredgif) · `2026-11-23`
 - ⭐ Starred [WoodpeckerAgora/google-gemini-pro-api-free-requests](https://github.com/WoodpeckerAgora/google-gemini-pro-api-free-requests) · `2026-11-23`
 - ⭐ Starred [fsferdows/Jarvis](https://github.com/fsferdows/Jarvis) · `2026-11-22`
-- ⭐ Starred [fsferdows/NetMirror-Plus](https://github.com/fsferdows/NetMirror-Plus) · `2026-11-22`
-- ⭐ Starred [fsferdows/safollow-smm-panel](https://github.com/fsferdows/safollow-smm-panel) · `2026-11-22`
-- ⭐ Starred [youshen-lim/gemini-nano-banana-CLIP-Interrogator](https://github.com/youshen-lim/gemini-nano-banana-CLIP-Interrogator) · `2026-11-21`
 
 <details>
 <summary><b>Journey</b></summary>
